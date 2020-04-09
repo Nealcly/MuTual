@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["f : it is hot in here .", "f : it is warm in here .", "f : it 's really cold in here .", "f : it 's really cold there but warm in here ."], "article": "f : i 'm sorry , but would you mind closing the window ? it 's cold in here . m : of course not .", "id": "train_5913"}

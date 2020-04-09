@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["f : oh my god . jill is calling me .", "f : oh my god . carol is calling me .", "f : oh my god . kerry susan is calling me .", "f : oh my god . carrollite susan is calling me ."], "article": "m : carol telephone . f : who is it ? m : i do n't know , wait a second . may i ask who 's calling please ? carrollite susan .", "id": "test_27"}

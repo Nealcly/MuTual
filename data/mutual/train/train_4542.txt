@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : why did you pay $ 9 ?", "f : you need pay $ 3 more .", "f : thank you . here 's you change , $ 7 .", "f : thank you , here 's you change , $ 3 ."], "article": "m : how much do i need to pay ? f : let me see . um , $ 9 and $ 8 . that 's $ 17 , sir . m : ok , here is a $ 20 bill .", "id": "train_4542"}

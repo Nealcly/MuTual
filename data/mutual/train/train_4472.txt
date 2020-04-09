@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : oh , maybe someone else broke the window .", "m : yes , it was you who broke the window .", "m : actually , i broke the window .", "m : oh , you broke the window and someone else broke the door ."], "article": "m : are n't you going to apologize for breaking that window ? f : why should i ? i did n't throw the ball .", "id": "train_4472"}

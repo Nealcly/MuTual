@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["m : i have problems with my study . my work goes well .", "m : my work goes well . but i have problems in my life .", "m : i have problems with my work .", "m : i quarreled with my friends ."], "article": "m : i am having trouble with my job . f : what is the problem ?", "id": "test_259"}

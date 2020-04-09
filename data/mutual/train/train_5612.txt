@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : you are a father now .", "f : you are a father of a boy now .", "f : you want to have a baby girl .", "f : congratulations ! i think you like girls better as me ."], "article": "f : congratulations . i heard you just got ta baby girl . m : twin boys .", "id": "train_5612"}

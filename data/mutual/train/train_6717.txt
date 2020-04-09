@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : what else do you want to order ?", "f : do you want to buy some fish ?", "f : why do n't you like potatoes ?", "f : would you like some more carrots ?"], "article": "f : have you decided to order ? m : yes , i 'll have chicken please . f : and would you like rice or potatoes with that ? m : potatoes please .", "id": "train_6717"}

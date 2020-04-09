@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : i went to beijing on holiday .", "f : i went to nanjing and visited my cousin .", "f : i went to nanjing on holiday .", "f : i went to beijing to do some business ."], "article": "m : long time no see . where did you go ? f : i was on vacation . i went to beijing and stayed at my cousin 's place . m : sounds great .", "id": "train_4776"}

@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : sure . i wo n't open the window then .", "f : you want to close the window now ? ok , i 'll do it for you .", "f : i 'll open the window for you if you are too busy .", "f : ok. i will open the window now ."], "article": "f : do you mind if i open the window ? m : we need to keep it quiet here .", "id": "train_6640"}

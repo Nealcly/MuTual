@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : please walk faster , dear .", "m : park here . we do n't need to drive there .", "m : keep driving .", "m : keep running !"], "article": "m : rose , there 's a really good view over there . f : sorry , we ca n't stop here . there is nowhere to park .", "id": "train_4599"}

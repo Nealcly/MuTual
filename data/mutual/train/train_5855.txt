@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : so you mean $ 18 for each one ?", "f : here is $ 19 for these 2 shirts .", "f : i will take 3 , and here is $ 19 .", "f : so there wo n't be any discount even if i want to buy two ?"], "article": "f : very nice skirts . how much are they ? m : $ 10 each , and one dollar off if you buy 2. they 're on sale .", "id": "train_5855"}

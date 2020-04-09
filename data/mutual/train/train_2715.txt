@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["m : all right . you still have an hour for lunch .", "m : all right . you only have 45 minutes for lunch .", "m : all right . you only have 45 minutes for dinner .", "m : all right . you only have 30 minutes for lunch ."], "article": "m : you only have an hour for lunch ? f : no , now i only have 45 minutes .", "id": "train_2715"}

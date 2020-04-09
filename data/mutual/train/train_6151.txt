@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : you paid $ 226 in total .", "m : you paid $ 229 in total .", "m : you paid $ 229 without tax .", "m : so , you paid $ 232 in total ."], "article": "f : i bought an air cleaner that was on sale . it was $ 229 . m : including tax ? f : no , i paid another $ 3 for the tax .", "id": "train_6151"}

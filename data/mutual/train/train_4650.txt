@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["f : yeah , by taxi is a good choice .", "f : i 'm so glad that you did n't take the bus .", "f : by bus is a good choice , actually .", "f : i 'm so glad that you came here by car ."], "article": "f : how did you get here ? m : i came here by bus , there 's something wrong with my car .", "id": "train_4650"}

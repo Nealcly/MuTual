@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : thank you , my good friend . it very nice of you .", "f : thank you , my dear classmate .", "f : are you strange with me ? i was your classmate .", "f : i got it . you are very nice ."], "article": "f : excuse me . can you tell me the way to the main square ? m : oh , it 's far from here . you may get there by taxi .", "id": "train_5909"}

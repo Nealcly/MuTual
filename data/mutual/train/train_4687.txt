@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : i know . i always lose my car keys .", "m : this is the first time i lose my car keys .", "m : i know . i should study harder on my lessons .", "m : i know . i should let you keep the car keys ."], "article": "m : oh , this is so annoying , where on earth did i put my car keys ? f : you never learn your lessons .", "id": "train_4687"}

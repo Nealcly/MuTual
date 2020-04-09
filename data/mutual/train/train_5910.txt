@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : today is sunday . so , they closed .", "m : oh , tomorrow is sunday .", "m : but , today is saturday .", "m : today is monday . they should open now ."], "article": "m : the post office should be open today . they only close on sundays . f : oh , then . it 's good that i did n't wait until tomorrow to send this letter .", "id": "train_5910"}

@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["m : so we 'll celebrate sue 's birthday today .", "m : oh , it 's my birthday today !", "m : i already know it 's my birthday !", "m : alright , it 's tracy 's birthday today ."], "article": "m : whose birthday is it today ? f : you can guess , jim . m : sue 's , sam 's or tracey 's ? f : when were you born ?", "id": "dev_693"}

@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : so you get the news on the international newspaper .", "f : so you get the news on the local newspaper .", "f : so you get the news on the radio .", "f : so you get the news on tv ."], "article": "f : anything interesting on now ? m : no , i was reading a local news report about a big fire .", "id": "train_1065"}

@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : it 's 8:55 now .", "f : ten minutes have passed since 8:05. now , it is 8:15 .", "f : it 's 7:55 now .", "f : it 's 8:05 now ."], "article": "f : what time does the concert start ? m : at 8:30. we still have 25 minutes to get there .", "id": "dev_717"}

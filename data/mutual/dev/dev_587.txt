@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["m : the park gate is over there .", "m : do take a seat , there will be at least 10 minutes to the next stop .", "m : can you press the eighth floor for me ?", "m : madam , we have arrived your stop ."], "article": "m : excuse me , mam . why do n't you sit down here ? f : no , thank you . i 'm getting off at the next bus stop .", "id": "dev_587"}

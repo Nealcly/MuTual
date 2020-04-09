@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : $ 4.00 each pillow .", "f : $ 7.00 each pillow .", "f : $ 8.00 each pillow .", "f : $ 4.00 for a pair of pillows ."], "article": "f : how much are these pillows , please ? m : $ 4.00 each or $ 7.00 for a pair .", "id": "train_5620"}

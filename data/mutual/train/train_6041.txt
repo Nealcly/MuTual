@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : here is $ 2 , i want that two cups .", "f : here is $ 3 , i want that two cups .", "f : i 'd like one cup . this is $ 3 .", "f : i 'd like two cup . this is $ 4 ."], "article": "f : how much are these cups ? m : $ 2 for one , and $ 3 for 2 .", "id": "train_6041"}

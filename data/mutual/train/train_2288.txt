@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : so i should wait for the bus at this bus stop .", "m : the bus at this bus stop will not go to the mall .", "m : i want to go to the supermarket .", "m : i want to go to the airport ."], "article": "m : does this bus really go to the mall ? f : it goes all the way there .", "id": "train_2288"}

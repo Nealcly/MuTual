@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : oh , it is 7:15 now .", "m : oh , it is 9:15 now .", "m : mine reads 11:15. and my watch is 2 hours slow . so , it is 1:15 now .", "m : oh , it is 11:15 now ."], "article": "m : what time is it by your watch ? mine reads 9:15 . f : your watch is 2 hours slow .", "id": "train_6603"}

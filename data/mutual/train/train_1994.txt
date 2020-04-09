@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["f : great ! you must be megan 's teacher .", "f : nice to meet you . do you know where is megan 's father ?", "f : nice to meet you , megan 's father .", "f : great ! megan mentions you a lot as her classmate ."], "article": "f : welcome to the parent teacher conference . so what is your child 's name ? m : megan jones .", "id": "train_1994"}

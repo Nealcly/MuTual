@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["f : it is rainy outside .", "f : it will cloudy tomorrow , but now it is rainy .", "f : it is cloudy outside .", "f : the weather is fine now ."], "article": "f : it looks like rain . i 'll go and get my raincoat . m : do n't worry , the paper said it 's going to be fine this afternoon .", "id": "dev_728"}

@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["m : yes , it is a big zoo here .", "m : yes , cat is much cheaper here .", "m : this forest is really big .", "m : no . cat is more expensive than bird ."], "article": "m : look at those beautiful birds over there , i think you can teach them to talk . f : but look at the price . i 'd rather have a cat .", "id": "dev_724"}

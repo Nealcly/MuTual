@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : well , my favorite sport is shooting too .", "f : why do you think shooting is boring ?", "f : you mean your favorite sport is basketball ?", "f : why do n't you like doing excise ?"], "article": "f : do you like sports , and which sports do you like best ? m : yes , and i like shooting best , because it 's exciting .", "id": "train_5670"}

@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["m : ok. i can help you .", "m : thank you for your help .", "m : could you help me ?", "m : you need my help ?"], "article": "f : ralph , do me a favor , will you ? m : that all depends on what it is . f : i 'm still having trouble with my english . the instructors suggest that i ask an american just like you to help me .", "id": "dev_722"}

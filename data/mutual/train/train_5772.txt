@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : he will do homework at home until 6:00 .", "f : got it . so he will arrive at 6:50 , right ?", "f : let 's have dinner with colin at home around 6:30 .", "f : he will leave school at 6:50 , right ?"], "article": "f : what time is colin coming over ? m : school is over at 6:30. it will take him 20 minutes to get here by bike", "id": "train_5772"}

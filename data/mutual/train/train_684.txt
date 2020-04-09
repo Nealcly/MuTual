@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : ok ! but is n't one hour too short ?", "m : ok ! but i think from 8 am to 10 am is too early .", "m : ok ! the yard sale will only last 2 hours .", "m : ok ! but is n't 3 hours too long ?"], "article": "f : mike , could you help me tomorrow afternoon ? i 'll have a yard sale from 3:00 pm to 5:00 pm .", "id": "train_684"}

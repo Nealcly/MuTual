@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["f : oh , you have become a worker now .", "f : why do you choose to be a driver now ?", "f : oh , you are still a teacher now .", "f : why did you stop being a teacher ?"], "article": "f : i remember you taught in a school in shanghai . m : yes , that 's right . in no.3 middle school . f : what do you do now ? m : the same .", "id": "train_5742"}

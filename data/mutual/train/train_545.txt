@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : great ! i 'm so glad to be at your office .", "m : great ! i 'm so glad to leave your office .", "m : yeah , i know that i 'm at a factory now .", "m : yeah , i 'm studying at school now . i 'll be in your office tomorrow ."], "article": "m : hi , this is the friends of the environment office , is n't it ? f : yes , it is .", "id": "train_545"}

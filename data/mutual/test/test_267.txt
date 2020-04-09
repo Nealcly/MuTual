@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["m : yes , today is sunny and the weather is lovely .", "m : well , yesterday was sunny and i like it more than rainy days , like today .", "m : why is today a rainy day ? i hate raining so much .", "m : yes . today is cloudy . it may rain later ."], "article": "f : do n't you love sunny days like today ?", "id": "test_267"}

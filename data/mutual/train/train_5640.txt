@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["m : i enjoy the beautiful garden view here .", "m : i 'd like to order some meals before dessert .", "m : excuse me , i 've been waiting for my meals for an hour .", "m : how much is this hat ?"], "article": "f : would you like some chocolate cake , sir ? m : i 'd like to see the menu first . f : ok , here you are .", "id": "train_5640"}

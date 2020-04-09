@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : why do n't you know how to do your job ?", "f : my job is difficult but yours are easy .", "f : you job is n't interesting .", "f : your job is difficult ."], "article": "f : you seem very tired lately . m : it 's my new job . it 's hard work and the hours are long .", "id": "train_5737"}

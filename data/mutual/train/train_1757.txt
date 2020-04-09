@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : yes , please . how soon do i have to leave my room ?", "f : okay , please help me to print it out , thanks helen !", "f : yes , miss lily , my distinguished customer , what do you want ?", "f : yes , miss li . this is from room 208 , can you come to my room ?"], "article": "m : reception can i help you ?", "id": "train_1757"}

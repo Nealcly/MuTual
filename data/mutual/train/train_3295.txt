@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["f : let 's get the boarding pass right away .", "f : i hate this train we take . it 's slow .", "f : we 're in first class on this plane .", "f : the plane is not smooth and quiet at all ."], "article": "f : can you feel that the plane 's taking off now ? m : no , nothing at all . it 's smooth and quiet .", "id": "train_3295"}

@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : so you took this picture at home .", "m : so you took this picture in the kitchen .", "m : so you painted the picture at school .", "m : so you took this picture at your school ."], "article": "m : what are you doing , little sarah ? f : i am looking at my pictures . dad . i painted them in class .", "id": "train_1491"}

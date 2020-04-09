@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : did you fly home ?", "f : you went home by bus .", "f : so , you went to work by train .", "f : so , you went home by train ."], "article": "f : how did you get home ? m : at first i plan to take a plane , but then i decided to take a train because of the storm .", "id": "train_6393"}

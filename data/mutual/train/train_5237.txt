@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : three dollars for your ten stamps .", "f : they cost 30 cents .", "f : ten cents , please .", "f : three dollars altogether for your postcard ."], "article": "m : excuse me , i 'd like to buy some stamps . f : how many ? m : i need ten 30-cent stamps .", "id": "train_5237"}

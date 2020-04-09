@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : the ticket says it start at 8:15 .", "m : the ticket says it start at 10:15 .", "m : the ticket says it start at 8:30 , and finish at 10:00 .", "m : oh , yeah , it should start at 8:30.thanks ."], "article": "m : does the film start at 8:00 o'clock or 8:15 ? f : it starts at 8:30 and ends at 10:15 .", "id": "train_5163"}

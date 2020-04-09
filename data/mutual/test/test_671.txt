@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["f : ok. let 's have some dessert together .", "f : ok. you will have a burger and i will have a pizza .", "f : ok. let 's have burgers together .", "f : yes . you can have a pizza ."], "article": "f : i 'll order a burger and some dessert . what about you ? m : i 'll go for a pizza . i 've been thinking about it all day long .", "id": "test_671"}

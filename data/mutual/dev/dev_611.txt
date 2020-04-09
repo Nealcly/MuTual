@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["m : no problem ! i 'll take you to the park .", "m : no problem ! i 'll take you to the airport .", "m : sorry , boy . this bus is going to the train station .", "m : honey , we are not going to anywhere ."], "article": "m : where do you want to go , madam ? f : could you take me to the airport ?", "id": "dev_611"}

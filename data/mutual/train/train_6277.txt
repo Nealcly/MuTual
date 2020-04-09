@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : ok. are you leaving at seven fifty ?", "f : why do you leave at half past seven ?", "f : why are you going to leave at 7:20 ?", "f : it is 7:50 now . you should leave ."], "article": "f : are you going to leave ? it 's already 7:30 . m : no . i am going to wait another 20 minutes .", "id": "train_6277"}

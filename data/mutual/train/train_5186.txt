@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : we can get to the train station at 6:30 .", "f : so the train will leave at 10:30 .", "f : so we need to go at 8:30 to catch the bus .", "f : so the bus will leave at 10:30 ."], "article": "f : we 'd better be going now or we 'll be late for the train . m : no rush . it 's 8:30 now , we still have 2 hours .", "id": "train_5186"}

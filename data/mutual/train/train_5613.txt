@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : you paid $ 60 in total .", "f : you paid $ 65 in total .", "f : you paid $ 65 for 3 ties .", "f : you paid $ 70 in total . no discount ?"], "article": "f : jack , your new tie 's so beautiful . is it expensive ? m : not really . one tires $ 35 . but if you buy 2 ties , you can save $ 5 , so i bought 2 .", "id": "train_5613"}

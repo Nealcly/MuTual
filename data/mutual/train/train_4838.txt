@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : wow , you write newspaper articles .", "m : wow , you write plays .", "m : wow , you write books .", "m : why do n't you write newspaper articles ?"], "article": "m : what do you write , pat ? story books ? plays ? f : just articles for newspapers .", "id": "train_4838"}

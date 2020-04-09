@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : thanks , joe .", "m : all right . i will go to mrs. greens 's house to find her .", "m : thanks , jane .", "m : i understand . thanks , dr. brown ."], "article": "m : where is mary ? is she here , joe ? f : no . she 's in doctor brown 's office , just next door to mrs. greens .", "id": "dev_718"}

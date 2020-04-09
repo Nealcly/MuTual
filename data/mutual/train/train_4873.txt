@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : that would be great . make it 5:10 .", "m : see you at 5:20 .", "m : since you want 10 past 5 , let 's meet then .", "m : sure , 5:40 is ok ."], "article": "m : let 's meet at 20 to 5 . f : well , could we make it 20 past 5 ? m : that 's a bit late for me . i could manage 10 past . f : ok , see you then .", "id": "train_4873"}

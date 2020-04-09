@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : we have been working so hard .", "m : even if i am tired , i will continue to work .", "m : hand in your homework please .", "m : dear , i need a rest ."], "article": "m : let 's call it a day . i 'm too tired to work any longer today . f : you go first . i 'll just stay here and rest my head a little bit .", "id": "train_5829"}

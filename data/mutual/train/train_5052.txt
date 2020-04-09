@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : you understand my feeling well .", "f : yes , i should not blame others .", "f : others should be to blame .", "f : there is no one be interested in my problem ."], "article": "f : you just do n't know what i feel . everything is getting worse because of him ! m : stop blaming other people . be patient and think positively .", "id": "train_5052"}

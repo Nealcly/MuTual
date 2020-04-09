@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["f : oh , you are a shop assistant .", "f : oh , you are an office clerk in new york .", "f : oh , you are an office clerk .", "f : oh , you are a political leader ."], "article": "f : so you work in washington dc . what do you do there ? m : i 'm an assistant at a government office .", "id": "train_5951"}

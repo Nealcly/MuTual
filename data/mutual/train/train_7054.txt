@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : ok. orange juice for you .", "f : here you are , a sprite .", "f : you need a cup of coffee .", "f : i 'd like a cup of the orange juice ."], "article": "f : what do you want to have for drink ? we have coffee , sprite and orange juice . m : orange juice please .", "id": "train_7054"}

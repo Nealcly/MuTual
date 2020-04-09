@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : oh , kate is a teacher .", "m : your daughter 's husband is a writer .", "m : your daughter is a writer .", "m : kate is a doctor ."], "article": "f : good morning , doctor brown . m : hello , mrs smith , who 's your visitor ? f : oh , this is my daughter , kate . she 's a writer and her husband is a teacher .", "id": "train_4797"}

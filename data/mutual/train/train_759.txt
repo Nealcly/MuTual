@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["m : you just need some cream for your coffee ?", "m : sure . i 'll put some milk in your coffee .", "m : sure . i just put some sugar in your coffee .", "m : ok. you need some milk for your tea ."], "article": "m : would you like a cup of coffee ? f : yes , that would be good . m : cream or sugar ? f : neither , just some milk .", "id": "train_759"}

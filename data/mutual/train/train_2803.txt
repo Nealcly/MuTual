@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : why do you think the cake tastes thick ?", "m : do you really think this cake is tasteless ?", "m : i am so happy that the cake tastes fine to you .", "m : it seems that the soup is tasteless to you ."], "article": "f : i 'm not sure about this soup , carl . it has no taste .", "id": "train_2803"}

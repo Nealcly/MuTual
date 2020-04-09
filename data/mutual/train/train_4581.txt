@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["m : why do you like bananas best instead of apples ?", "m : you like apples best ? me too .", "m : you like oranges best ? me too .", "m : so bananas are your favorite fruit , right ?"], "article": "m : what 's your favorite fruit , oranges or bananas ? f : i like oranges better than bananas , but i like apples best .", "id": "train_4581"}

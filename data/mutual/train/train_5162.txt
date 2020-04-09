@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : oh , your sister is a teacher .", "m : oh , your sister is a nurse .", "m : oh , your are a doctor .", "m : oh , your sister is a doctor ."], "article": "m : jane , you are a teacher and how about your sister ? f : she is a doctor , but she used to be a nurse .", "id": "train_5162"}

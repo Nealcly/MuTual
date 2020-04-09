@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : i agree with you . i love cloudy days , too .", "m : yeah , sunny days make me happy , too .", "m : i agree with you . i like rainy days , too .", "m : i agree with you . i hate rainy days ."], "article": "m : what bad weather ! f : yeah , rainy day is always make me sad .", "id": "train_5800"}

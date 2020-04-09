@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : size m. please .", "m : hurry to get it for me . my little assistant .", "m : thanks , dear .", "m : i 'll send my staff to get it for you right away ."], "article": "m : i 'd like to see that brown jacket out you have in the window , please . f : what size do you take ?", "id": "train_6391"}

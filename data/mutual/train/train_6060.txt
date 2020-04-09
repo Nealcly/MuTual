@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : you are right . he looks great in that old coat .", "f : i know that you disagree with me .", "f : i know that you disagree with me , but i think he should buy a new coat .", "f : you sound like you do n't care ."], "article": "f : jim looks good in that old coat , does n't he ? m : i still wish he 'd get a new one .", "id": "train_6060"}

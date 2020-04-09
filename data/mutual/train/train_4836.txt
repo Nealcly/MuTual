@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : yes . now is autumn and i like it best , too .", "f : yes . now is spring and i like it best , too .", "f : yes . now is winter and i like it best , too .", "f : autumn is so dry . now is summer and i like it best ."], "article": "f : which season do you like best ? m : this season . autumn is the best season in beijing .", "id": "train_4836"}

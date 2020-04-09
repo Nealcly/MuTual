@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : so i can find a cafe behind the bank .", "f : your home is really far from the bank .", "f : so the restaurant is next to the bank .", "f : so it is next to a bank ."], "article": "f : excuse me . could you tell me where the bookstore is ? m : turn right and it 's beside the bank .", "id": "train_5875"}

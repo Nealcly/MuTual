@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : the is a long journey on bus .", "m : the train we take lasted eleven hours .", "m : it 's really a long flight which has 11 hours .", "m : this flight lasted twenty hours ."], "article": "m : excuse me , is there anyone sitting here ? f : oh , no , please . m : ah , thanks . um , it 's a long flight . f : yeah , 11 hours .", "id": "train_4601"}

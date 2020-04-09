@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : nora went traveling .", "m : nora was on holiday .", "m : nora started a company ? she is really excellent .", "m : you mean jane started a company ?"], "article": "m : i have n't seen nora for a long time . has she been away on a holiday ? f : guess what , she set up her own travel agency .", "id": "train_5521"}

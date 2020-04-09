@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : beef is also my favorite .", "m : let me cook your favorite potatoes for you next time .", "m : now i know . fish and chicken are your favorites .", "m : unlike you , i really dislike fish ."], "article": "m : hi mary , what 's your favorite dish ? f : i could never get tired of fish .", "id": "train_6537"}

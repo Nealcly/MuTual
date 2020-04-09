@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : well , i see amy just once every two months .", "m : we need to wait for one month before amy comes back .", "m : you are right ! amy will go the university in a month .", "m : thanks for your concern . she will come back in a month ."], "article": "f : how soon will nancy come back ?", "id": "train_5442"}

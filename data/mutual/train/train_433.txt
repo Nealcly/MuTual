@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : of course . this bus is running so slow .", "m : you are right . the bus can not start now .", "m : yes , the car is making a strange noise .", "m : sure . there is a strange noise in the street ."], "article": "f : frank , do you hear that strange noise ?", "id": "train_433"}

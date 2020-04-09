@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : really ? are these cards only 10 cents ?", "m : it 's so cheap ! here you are the 14 cents .", "m : here you are the 40 cents for these pencils .", "m : 40 cent , right ? here you are ."], "article": "m : i 'd like to buy these 4 thanksgiving cards . are they $ 0.10 each ? f : yes , they are .", "id": "train_6214"}

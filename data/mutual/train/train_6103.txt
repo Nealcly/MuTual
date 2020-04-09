@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["m : yes . there are 6 in total . my family is really small .", "m : yes . there are 6 in total .", "m : yes . there are 5 in total .", "m : yes . there are 4 in total ."], "article": "f : look at this photo , is that your family ? m : yes , there are 6 people . i 've got a big family . f : is this your brother ?", "id": "train_6103"}

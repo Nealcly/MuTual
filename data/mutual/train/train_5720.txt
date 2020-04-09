@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : you don ' t call your home as much as i do .", "f : you do call home often .", "f : you are not like me . you don ' t call your home very often .", "f : you do call your girlfriend so often ."], "article": "f : i wish i had the time to call home as often as you do . m : yes , i really like to keep in touch with my family .", "id": "train_5720"}

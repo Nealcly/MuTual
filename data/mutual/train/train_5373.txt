@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : the living room is so dirty .", "m : i have cleaned the toilet .", "m : oh , no . the bedroom has n't been cleaned yet .", "m : ok , you clean the toilet . thanks ."], "article": "m : so i 've cleaned the living room , the bedrooms , except for ? f : i know , the toilets . do n't worry , i 'll clean them .", "id": "train_5373"}

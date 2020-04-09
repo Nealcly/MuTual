@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["f : what ? someone robbed you ? you are so unlucky .", "f : what ? someone stole your wallet ? how did it happen ?", "f : do you remember where you lost your wallet ?", "f : you just lost your wallet , but why are you so happy ?"], "article": "f : why do you look so upset , have you been robbed ? m : well , i lost my wallet .", "id": "train_3971"}

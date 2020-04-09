@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : doctor , i feel terrible .", "f : doctor , i get a headache .", "f : i want to buy some hot strips .", "f : i want to send this letter to beijing ."], "article": "m : what seems to be the trouble ? f : i think i 'm running a fever . m : i see . let me take your temperature .", "id": "train_6297"}

@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : let 's go to that small restaurant to have our supper later .", "f : how do you think of the food here ?", "f : your house is really beautiful .", "f : what do you want to buy ?"], "article": "f : well , that was delicious , bobby.here is my share . m : it 's no need to do that , kathy . i told you it was my treat .", "id": "train_5277"}

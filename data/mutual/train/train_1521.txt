@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : the temlpe is a great place to visit .", "f : ok , let 's go to the park .", "f : i want to buy some books .", "f : i do n't like visiting that temple ."], "article": "m : where do we want to go sightseeing today ? f : i want to visit this temple i 've read about in the guidebook . m : ok. i will buy the entrance ticket .", "id": "train_1521"}

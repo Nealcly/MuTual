@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["m : that 's $ 20 in total , madam .", "m : $ 15 , please .", "m : two tickets altogether , $ 20 .", "m : they charge $ 25 ."], "article": "f : excuse me how much are the tickets please ? m : $ 10 for the nand out , students go half price . f : two student tickets and adult one please .", "id": "test_876"}

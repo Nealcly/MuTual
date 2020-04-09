@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : now we are in the street .", "f : this is really a big parking lot .", "f : now we are a car factory now .", "f : let 's go to the parking lot later ."], "article": "f : excuse me , where can i park my car ? m : well , ma'am , it 's all full here in section a. you can go to section b in park there .", "id": "train_5575"}

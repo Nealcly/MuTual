@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : oh , it 's 7:55 now . no worry , we still have an hour .", "f : it 's already 7:55. we need to hurry a bit .", "f : we have plenty of time . it 's only 7:45 .", "f : so it 's ten to 8:00 ."], "article": "f : what time does the ballet start ? m : at 8:30. we have 35 minutes to get there .", "id": "train_5732"}

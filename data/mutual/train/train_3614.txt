@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : i like this cup of green tea .", "f : this black tea tastes delicious .", "f : this cup of oolong tea smells disgusting", "f : oh , i know . it 's a kind of oolong tea ."], "article": "f : thank you . the tea smells good . what is it called ? m : it 's called tie guanyin , and is a kind of wulong tea .", "id": "train_3614"}

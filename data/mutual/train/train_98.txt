@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : i 'm here to show you my novel .", "m : do you like this dress ? take it home ?", "m : where is the tv you want to repair ?", "m : i 'm not a repairman ."], "article": "f : hello , who 's that ? m : hello , mrs black . i 'm david . i 'm coming to fix your tv set . f : oh , come in please .", "id": "train_98"}

@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : so you like golf best , right ?", "f : why do you prefer tennis to swimming ?", "f : why do you like tennis best ?", "f : why do you like swimming best ?"], "article": "f : say , what 's your favorite sport ? m : um , it 's hard to say . i like golf a lot , and tennis better , but i guess swimming ?", "id": "train_6061"}

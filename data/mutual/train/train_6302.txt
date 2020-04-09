@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : i like animals .", "m : we have a really wonderful childhood .", "m : you afraid of spiders .", "m : why you are afraid of dogs ?"], "article": "f : as a child , did you have any special fears ? m : yeah , i was afraid of spiders . how about you ? f : i was really afraid of big dog .", "id": "train_6302"}

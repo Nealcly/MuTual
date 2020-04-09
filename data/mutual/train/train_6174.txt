@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["m : i like to visit museums , and i often do that .", "m : i like to visit museums .", "m : i like to make a good plan .", "m : i only like to visit the modern museum"], "article": "m : i do n't often visit museums , but i like to , whenever possible . f : i 've never visited the modern museum , but i plan to tomorrow .", "id": "train_6174"}

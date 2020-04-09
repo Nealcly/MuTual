@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : i 'm really happy that we finally got to hawaii for our honeymoon .", "f : it is the happiest wedding i 've ever been to .", "f : mary is the ugliest bride i have ever seen .", "f : i like this cinema very much ."], "article": "f : is n't mary a beautiful bride ? m : yes , she is indeed . john looks very happy too .", "id": "train_5588"}

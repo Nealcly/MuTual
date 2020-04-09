@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : why you feel disappointed with your work ?", "m : you feel disappointed with your salary .", "m : why are you so excited about your work ?", "m : why are you so satisfied with your work ?"], "article": "m : do you like this kind of work ? f : well , the working hours are too long and i 'm also the only woman in the department .", "id": "dev_821"}

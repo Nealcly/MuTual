@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["m : i woke up late . you woke up so early .", "m : you woke up late .", "m : you got to work late .", "m : you went to sleep late ."], "article": "m : you look sleepy this morning , beverly . did you go to bed late last night ? f : no , i slept through my alarm this morning , so i did n't get a chance to shower .", "id": "train_4505"}

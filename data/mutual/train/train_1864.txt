@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : i agree . travelling to hawaii is crazy .", "m : i agree . travelling to new york is interesting .", "m : i agree . travelling to hawaii is interesting .", "m : i agree . travelling to hawaii is boring ."], "article": "m : i want to go traveling to hawaii . f : that sounds like fun . how do you want to go ?", "id": "train_1864"}

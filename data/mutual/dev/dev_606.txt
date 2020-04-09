@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["m : hurry up ! the ship will leave at 6:55 .", "m : hurry up ! the ship will leave at 7:05 .", "m : hurry up ! it is 7:05 now and the ship will leave in 5 minutes .", "m : we are not in a hurry . the ship will leave at 9:15 ."], "article": "m : the ship leaves in 25 minutes . f : oh , it 's only 6:40 now .", "id": "dev_606"}

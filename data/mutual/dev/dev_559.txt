@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : let 's take a rest .", "m : operating the machine is really urgent .", "m : we are almost at the foot of the hill . we are far away from the top .", "m : yes , i really enjoy climbing the hill ."], "article": "m : would you like to stop for a rest now ? f : oh , let 's keep going . we are almost at the top of the hill .", "id": "dev_559"}

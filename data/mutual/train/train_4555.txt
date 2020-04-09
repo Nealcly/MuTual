@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : oh , you are living here .", "f : oh , you are here for your holiday .", "f : you work here ? i thought you were on holiday here .", "f : you work here ? i did n't know that ."], "article": "f : hello , tom ! what are you doing here ? are you living or working here ? m : neither , i am on holiday here .", "id": "train_4555"}

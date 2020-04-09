@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : i think the weather is warm .", "f : i think it is cold but i like cold .", "f : i think the weather is nice .", "f : i think it is too cold ."], "article": "m : nice weather we 're having . do n't you think ? f : no , it is too cold . m : i think it is just right .", "id": "dev_781"}

@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["f : oh , it is 5:00 .", "f : oh , no . it is 5:15 now .", "f : my homework should be finished before 4:45 .", "f : thank goodness . it is 4:45 ."], "article": "f : oh , no . it 's 5:00 o'clock already and i have n't finished my homework . m : do n't worry . that clock is 15 minutes fast . you still have time to do it .", "id": "test_789"}

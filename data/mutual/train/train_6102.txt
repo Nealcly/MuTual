@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["m : yes . linda has very short hair .", "m : yes . jenny 's hair is short .", "m : yes . rose has very short hair .", "m : yes . jenny 's hair is as short as linda 's ."], "article": "m : linda 's hair is long and straight . jenny 's hair is short . f : yes , linda 's hair is just like rose 's .", "id": "train_6102"}

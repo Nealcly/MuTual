@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : i have got the job already .", "m : i just had my hair cut .", "m : you wear long hair , but mine is short .", "m : oh , i love my long hair !"], "article": "m : people say the manager does n't like young people with long hair . is that true ? f : well , if you want to get the job , you better get your hair cut .", "id": "train_6782"}

@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : you need to eat before school .", "m : you love to grab a coffee on the way .", "m : you 'll stay for breakfast .", "m : you need to have a cup of coffee before school ."], "article": "m : can you stay for a cup of coffee ? f : i 'd love to , but i have to grab something to eat before class .", "id": "train_6843"}

@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : you 'd like to see joan .", "f : i will see joan eventually , so i would like to see her now .", "f : joan is the first person i want to see now .", "f : you do n't want to see joan ."], "article": "f : do you want to see joan ? m : she is the last person i want to see now .", "id": "train_4878"}

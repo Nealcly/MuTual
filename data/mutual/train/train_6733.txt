@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : sounds like a good plan .", "f : the swimming pool is right by the sea and it 's so beautiful .", "f : do you want to see the movie ?", "f : i like to make plans ."], "article": "m : what do you want to do this weekend ? f : i do n't know . see a movie . m : i 'm afraid it 's not a good idea . how about going swimming ?", "id": "train_6733"}

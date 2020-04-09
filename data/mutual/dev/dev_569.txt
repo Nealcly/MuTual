@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : i want get something to eat .", "m : you need take it easy .", "m : i need finish my work .", "m : i need take it easy ."], "article": "m : i feel so stressed out right now . work has been crazy lately . i need to relax . f : just sit down . and i 'll get you a coke and a sandwich , ok ?", "id": "dev_569"}

@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : you are 22 now .", "f : you are 20 now .", "f : you are 16 now .", "f : why you came this school when you were 22 ? now you 're 24 ."], "article": "f : how long have you been at the school ? m : i 've been here for about 2 years . i came here when i was 22 .", "id": "train_6304"}

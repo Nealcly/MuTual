@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["f : oh , i know . he is a volunteer in manchester .", "f : oh , i know . he is a lawyer in manchester .", "f : oh . he is a very famous lawyer .", "f : oh , i know . he is a guide in manchester ."], "article": "f : steven , do you have any friend in london ? m : yes , my old friend , hanson , lives there working as a lawyer .", "id": "train_3357"}

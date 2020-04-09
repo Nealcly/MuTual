@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : i do n't like this color at all .", "f : this dress was too small for me .", "f : this pair of trousers was too small for me .", "f : i agree . this dress was too expensive ."], "article": "f : i 'd like to change this dress for one , a size larger ? m : yes , of course , pick out another one . i 'll put this one back .", "id": "train_6213"}

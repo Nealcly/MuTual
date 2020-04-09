@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["f : the red pen ? here you are .", "f : the black one ? i see 2 black books , which one ?", "f : the black one ? here you are .", "f : this is the blue book you want ."], "article": "m : can you please pass me the book from that table ? f : which one ? i see 2 read books and one black book . m : i want the black one .", "id": "train_4607"}

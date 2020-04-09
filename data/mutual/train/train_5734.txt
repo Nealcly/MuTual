@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : wittner ?", "f : wiitner ?", "f : wittner , oh no , wiitner ?", "f : you name is witner ."], "article": "f : would you please spell your name for me , sir ? m : sure . wittner .", "id": "train_5734"}

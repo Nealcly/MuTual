@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : sure . i 'll serve your food to your seat later .", "f : sure . i 'll serve your drinks to your seat later .", "f : sorry , boss . i will finish my work as soon as possible .", "f : sure , honey . i will cook for you now ."], "article": "f : may i help you sir ? m : yes , i 'd like to order a cheese burger and a small cake .", "id": "train_5665"}

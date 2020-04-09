@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : $ 40 ? that was cheap .", "m : yes . i also think the watch was not worth $ 300 .", "m : $ 400 ? the price was reasonable .", "m : yes . i also think the watch was not worth that much ."], "article": "m : what a nice watch . how much did it cost ? f : $ 400 . a little more than its real worth .", "id": "train_4945"}

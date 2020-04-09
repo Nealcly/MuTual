@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : you usually go to work by bus .", "f : you walk to the company today .", "f : you usually go to work by taxi .", "f : you go to work by taxi today ."], "article": "f : how do you usually go to work ? by bus or by underground ? m : neither , i usually walk to the company . but today i took a taxi here because i got up late .", "id": "train_5480"}

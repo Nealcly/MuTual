@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["f : how long have you been unable to fall asleep ?", "f : how long have you been having the slight headache ?", "f : how long have you been having the headache ?", "f : how long have you been unable to feel the pain ?"], "article": "f : good morning , what 's wrong with you ? m : my head is killing me . it hurts badly .", "id": "train_5019"}

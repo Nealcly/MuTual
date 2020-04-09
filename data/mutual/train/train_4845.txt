@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : it 's 10:20 now . my god .", "f : it is 9:40 now ? no , it has been 10:00 now .", "f : it 's 10:00 now .", "f : oh , it is 9:40 now ."], "article": "f : oh no , it 's 10:00 o'clock already and i have n't finished my homework . m : do n't worry , that o'clock is 20 minutes fast , you still have time to do it .", "id": "train_4845"}

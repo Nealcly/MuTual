@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : have your brother served in an army ?", "m : is smoking allowed in the office ?", "m : how many times do you eat at a restaurant every week ?", "m : sure . the chicken is the best seller in our restaurant ."], "article": "m : may i have your order now ? f : yes , i 'd like a dish of chicken and a glass of milk .", "id": "train_4404"}

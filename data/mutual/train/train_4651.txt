@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : you never go out during weekends .", "f : oh , have a nice holiday .", "f : you always go out at the weekends . join us and visit some friends .", "f : why do n't you like to stay at home at the weekends ?"], "article": "f : we 're visiting some friends at the weekend . what about you ? m : oh , i 'm just staying at home .", "id": "train_4651"}

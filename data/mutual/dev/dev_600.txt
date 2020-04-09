@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : just keep cleaning the lift , please .", "f : please put out your cigarette before you leave the lift .", "f : thank you for your help .", "f : no worry . it 's fine for you to smoke in the lift ."], "article": "f : can you read the sign , sir ? no smoking is allowed in lift . m : i 'm terribly sorry .", "id": "dev_600"}

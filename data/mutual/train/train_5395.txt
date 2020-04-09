@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : somebody else has take away the stapler .", "m : i have take the stapler away .", "m : you owned it .", "m : somebody else has take away the book ."], "article": "m : excuse me , would you mind if i use your stapler ? f : help yourself . it 's on the desk over there . oh , i 'm sorry , it has been lent out .", "id": "train_5395"}

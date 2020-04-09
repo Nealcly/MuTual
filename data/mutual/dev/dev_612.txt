@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : so it 's $ 4.5 for each ticket , right ?", "m : please give me $ 9 refund .", "m : should n't it be $ 4.5 in total ?", "m : i will pay you $ 2 more ."], "article": "m : i 'd like 2 tickets for the 5:50 concert . f : that 'll be $ 9 .", "id": "dev_612"}

@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["f : it 's 6:35 now .", "f : where were you going at 6:45 ?", "f : it 's 6:45 .", "f : it 's 7:00"], "article": "m : sorry , i 'm late . have you been here long ? f : only 10 minutes . i left home at 6:05 and got here at 6:35 . m : well , if we hurry , we 'll still make it for the film at 7:00 .", "id": "train_5364"}

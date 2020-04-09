@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : the soup is cold .", "f : i want to order some food .", "f : yes , i feel cold .", "f : the soup is too hot ."], "article": "f : waiter , can you come here for a second please ? m : what 's the problem , mam ? f : this soup is cold . m : i 'm sorry . i 'll bring you some hot soup .", "id": "train_5591"}

@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["f : you have a really big farm .", "f : this is really big market .", "f : our restaurant offers good food .", "f : our restaurant offers good food . i just wait for a little while ."], "article": "f : sorry to keep you waiting . one order of fried chicken with vegetable salad and coffee . m : alright , thanks !", "id": "dev_613"}

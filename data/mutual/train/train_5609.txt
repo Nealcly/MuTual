@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : the north lake is beautiful now .", "f : the north lake is dirty now .", "f : the north lake is dirty before but beautiful now .", "f : the north lake is clean now ."], "article": "f : how is your tour around the north lake ? is it beautiful ? m : it should be but it is now heavily polluted .", "id": "train_5609"}

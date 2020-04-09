@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : ok , this is my previous diagnosis .", "f : where is my room ?", "f : ok , i 'll be at the clinic in a minute .", "f : i 'm going to law class now ."], "article": "f : please register your information here and pay for it . and i 'll make a medical record for you . m : ok. how much do i need to pay for the registration ?", "id": "train_6930"}

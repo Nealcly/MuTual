@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : why do we have to go jogging so early ?", "f : it 's late at night . why do we have to go jogging now ?", "f : what ? we need to play badminton now ?", "f : it 's 6 o'clock . it 's too early to go to work ."], "article": "m : wake up , darling . f : what for ? it 's only 5 o'clock in the morning . m : we 're going jogging .", "id": "train_2529"}

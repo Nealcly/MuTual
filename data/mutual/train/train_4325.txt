@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : you mean tom 's basketball skills are very bad ?", "f : you mean tom 's basketball skills are excellent , right ?", "f : why do you say tom 's basketball skills are just so-so ?", "f : you mean tom 's skills are excellent , right ?"], "article": "f : does tom play football as well as people say ? m : even better , i think .", "id": "train_4325"}

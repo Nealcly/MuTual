@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : yes , i agree with you . he is thoughtful .", "f : yes , i agree with you . he is careless .", "f : yes , i agree with you . he is humorous .", "f : you are careless ."], "article": "f : i will never go anywhere with bill ever again . he can never remember where he parks his car . m : that certainly sounds like bill .", "id": "train_5966"}

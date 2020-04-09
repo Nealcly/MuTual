@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : ok. i 'd like fish and rice .", "m : ok. i 'll arrive at your restaurant within 10 minutes .", "m : what is my room number ?", "m : what do you want to buy in the supermarket ?"], "article": "f : are you going to order sir ? m : but i do n't know where to find a menu . f : i 'm sorry sir , wait a moment please .", "id": "train_6956"}

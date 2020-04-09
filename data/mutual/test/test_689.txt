@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["f : i like iced coffee too .", "f : red tea is hurtful for your stomach .", "f : so you will order a hot coffee instead .", "f : you mean hot coffee will hurt your stomach ."], "article": "f : do you want some iced coffee ? m : no way . i never drink super cold stuff . they make my stomach hurt but regular coffee would be fine .", "id": "test_689"}

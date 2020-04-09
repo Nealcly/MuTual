@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : it is a really nice snack bar .", "f : let 's go to the snack over there .", "f : i want take some photos .", "f : it is really a fancy restaurant ."], "article": "f : a double cheeseburger with everything on it , some large curly fries and a medium pepsi . m : ok. your total is $ 6.88 .", "id": "train_4347"}

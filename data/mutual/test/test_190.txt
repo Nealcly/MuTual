@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["f : no problem . i will give you 4 yuan in total .", "f : what ? all these things cost 40 yuan .", "f : are you sure ? 14 yuan for only one thing .", "f : all right . here is 14 yuan for all of these things ."], "article": "f : how much are all these things ? m : let me see . 14 yuan , please .", "id": "test_190"}

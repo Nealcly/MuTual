@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : no problem ! norway is best place to sailing .", "m : why do you choose italy to surfing ?", "m : oh , great ! so you are going to sweden .", "m : wow , italy ! that 's a great place to sailing !"], "article": "m : hello , can i help you ? f : yes , i 'd like to go on a sailing holiday this summer in italy .", "id": "train_1964"}

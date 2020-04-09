@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : yes , this meal cost us $ 100 .", "f : i bought a dress for $ 100 .", "f : this restaurant is too expensive . a lunch costs us $ 300 .", "f : i 'm not going to pay $ 400 for a meal ."], "article": "f : did you tip the waitress ? m : yes , 10 dollars . 10 % of our bill , right ?", "id": "train_6582"}

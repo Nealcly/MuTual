@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : you are afraid to touch the spider .", "f : why you ca n't hear what i am saying ?", "f : you are afraid to touch the spider , but you like spider very much .", "f : oh , you will try to touch the spider later ."], "article": "f : why do n't you try to touch the spider ? m : forget it . it 's the last thing i will do .", "id": "train_6851"}

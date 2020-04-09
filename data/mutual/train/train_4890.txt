@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : i 'll ask my mother for help .", "f : i 'll write this paper by myself .", "f : i 'll help you with your homework .", "f : mother will help you with your homework ."], "article": "f : can you take a look at my math homework ? m : i 'm writing a report at the moment . mom should be home in a few minutes .", "id": "train_4890"}

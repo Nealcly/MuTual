@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["m : i will catch a train .", "m : then hurry to catch the train .", "m : you are going to carry out a survey .", "m : can you identify your personality ?"], "article": "m : lydia , would you mind taking this survey about different types of personalities ? f : i wish i could , but i 'm afraid i will miss my train then .", "id": "test_741"}

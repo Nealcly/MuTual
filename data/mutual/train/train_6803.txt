@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : you should take your medicine on time and have a good rest .", "m : i think this dress fits you well , you look great .", "m : sorry , this dish is sold out .", "m : ok , i 'll take your order later ."], "article": "m : may i take your order now , mrs. white ? f : thank you . but i 'm waiting for someone to join me .", "id": "train_6803"}

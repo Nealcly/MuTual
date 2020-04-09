@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : i 've had a cough for two days", "f : i 've had a headache for two days .", "f : i have got a fever and get well soon .", "f : i had a fever since yesterday ."], "article": "m : good morning , what 's the matter ? f : good morning , doctor . i 'm not feeling well . i have a fever . m : how long have you been like this ?", "id": "train_3082"}

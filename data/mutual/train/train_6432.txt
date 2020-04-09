@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : ok. let 's go there by underground .", "m : why do n't we cycle to the library now ?", "m : yes , no problem . i like cycling .", "m : ok. let 's drive there ."], "article": "m : how will we get to the park ? by underground or by car ? f : neither . why do n't we just cycle there ?", "id": "train_6432"}

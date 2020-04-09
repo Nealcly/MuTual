@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : the party is so great !", "m : i think the meeting is as boring as the party .", "m : i have a good time in making a holiday plan .", "m : the party is boring ."], "article": "f : are you having a good time ? m : sure , thanks again for inviting me . f : no problem . i just wish more people could have come .", "id": "train_6071"}

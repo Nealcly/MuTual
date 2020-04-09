@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : no , i come to invite you to my home .", "f : yes , you have come to say goodbye with me ?", "f : no , i come to ask you for advice .", "f : yes , so i come to say goodbye to you ."], "article": "f : hello rick , i 've come to say goodbye to you . m : are you going back to your country canada ?", "id": "train_1165"}

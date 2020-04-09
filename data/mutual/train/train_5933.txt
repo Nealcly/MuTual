@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : it 's fine that you will arrive at 8:15 .", "f : it 's bad that you will arrive at 8:45 .", "f : it 's fine that you will arrive at 8:30 .", "f : fine . our appointment is at 8:45 ."], "article": "f : is n't our appointment at 8:30 ? m : yes , it is . but i 'm afraid i will have to be 15 minutes late .", "id": "train_5933"}

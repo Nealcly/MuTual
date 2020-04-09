@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["f : no problem , i will get you a skirt .", "f : why do n't you like the jacket ?", "f : yes , i will get you a smaller size of the same jacket .", "f : sorry , we do n't have a smaller size for this overcoat ."], "article": "f : do you like this jacket , sir ? m : well , it 's a bit too large . do you have a smaller size ?", "id": "train_6144"}

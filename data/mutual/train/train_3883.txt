@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["f : what ? why did the thief break the lock ?", "f : what ? why did you repair the lock ?", "f : what ? why did you break the lock ?", "f : what ? why did the woman break the lock ?"], "article": "m : what happened here ? f : our lock was broken , honey . somebody broke into our house . m : oh , that was me .", "id": "train_3883"}

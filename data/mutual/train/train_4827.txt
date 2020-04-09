@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["m : i 'm going to take exercise .", "m : maybe i 'm going to have meetings .", "m : maybe you are going to have meetings . and i am just free .", "m : i am going to clean my shirts ."], "article": "m : do you think i should take extra shirts ? f : yes , just in case they have additional meeting , you 'll need clean shirts .", "id": "train_4827"}

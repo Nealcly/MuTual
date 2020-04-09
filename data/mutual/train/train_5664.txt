@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : i can repair the tv . come and take it tomorrow .", "m : help me do some housework , darling .", "m : alright , mom . i 'm going upstairs to do my homework .", "m : the class is over ."], "article": "m : can i watch tv ? f : no , not until you finish your homework !", "id": "train_5664"}

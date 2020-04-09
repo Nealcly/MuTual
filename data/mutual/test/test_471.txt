@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["m : you want an overcoat for winter ? sounds great !", "m : why do you want an overcoat ? it 's still in summer .", "m : why do you want a jacket for the winter ?", "m : you want a skirt ? it 's already winter now ."], "article": "f : can you recommend a good tailor ? m : yes . why ? f : i want a new overcoat for the winter .", "id": "test_471"}

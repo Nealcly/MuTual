@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : why do you think it is no fun there ?", "m : yes , it is not expensive .", "m : yes , it is expensive .", "m : you are right . it 's too far away from here ."], "article": "m : nina , what about going to the bar with us tonight ? we can have some great fun there . f : do n't you think that everything there cause too much .", "id": "train_4912"}

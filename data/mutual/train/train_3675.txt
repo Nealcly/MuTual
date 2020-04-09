@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : i agree with you . the singer is very pretty .", "f : oh , yes , the singer is pretty , but she does n't sing well .", "f : so you think the actress does n't look good , right ?", "f : why do you think she does n't look good ?"], "article": "f : that woman is a very good singer . m : yes , but she looks like a man .", "id": "train_3675"}

@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : how to reduce the price ?", "m : apart from how to giving tips , do you know how to buy a gift for tom ?", "m : how to give tips ?", "m : i also want to order a fish ."], "article": "m : what is a reasonable tip to leave to the waitress ? f : it 's up to you . i usually leave 20 % of the dinner price .", "id": "train_6553"}

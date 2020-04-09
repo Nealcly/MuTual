@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : ok , i 'll clean . mom .", "m : ok , i got it . jane , your mother called you .", "m : boss , i 've finished my work .", "m : dear colleagues , the boss calls you just now ."], "article": "f : what a mess ! m : i know i 've just been so busy . f : yes , but cleaning your room comes first .", "id": "train_4671"}

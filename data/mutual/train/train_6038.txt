@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : jason will arrive at 7:30 .", "f : jason should have arrived at 8:00 .", "f : jason always arrives on time .", "f : jason seldom arrives on time ."], "article": "f : when is jason coming ? m : well , he said he 'd be here at 7:30. but if you know him , it will be at least 8 o'clock .", "id": "train_6038"}

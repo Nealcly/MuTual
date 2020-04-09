@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["m : can you offer me some help ?", "m : i really suggest you to take off your coat . it 's warm today .", "m : listen carefully to my suggestion . i 'm serious .", "m : i warn you not to do this ."], "article": "m : ella , the temperature is a bit low today , make sure that you wear a sweater to school . f : ok dad , i will .", "id": "test_573"}

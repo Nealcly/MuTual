@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : you did a good job at school .", "m : are you staying at home all night ?", "m : ok , you are the boss at home .", "m : please keep quiet in the library ."], "article": "f : mike , would you like to help me do some cooking ? m : oh , no , i 'd rather do anything than cook . f : then , wipe all the dishes .", "id": "dev_842"}

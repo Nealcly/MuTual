@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["m : i have to work in us as soon as possible .", "m : i have to work in paris soon .", "m : i have to visit my friend there .", "m : why do you spend your vacation there ."], "article": "f : it said that you 're leaving new york . is that true ? m : yeah , i am moving to paris . i got a new job there . f : we 'll miss you .", "id": "train_5946"}

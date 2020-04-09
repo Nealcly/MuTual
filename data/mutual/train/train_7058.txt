@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : the meeting will start at 8:15 .", "f : the meeting will start at 8:45 .", "f : yes , the meeting will end at 9:00 .", "f : yes , the meeting wo n't start until 9:00 ."], "article": "f : hurry up or we will be late for the meeting . m : do n't worry , it 's 8:45. the meeting wo n't start until 9:00 .", "id": "train_7058"}

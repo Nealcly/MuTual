@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : yeah , welcome our new colleague , jasmine white .", "f : hi , old friend , we 're classmates now .", "f : yeah , he is your old friend and we are clerks again .", "f : hi , we are classmates now ."], "article": "f : hey , guys , say hello to your new friend , jasmine blake . m : hello , welcome to our class .", "id": "train_5372"}

@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : oh , i did n't know that we are both from spain .", "m : so you are from italy , are n't you ?", "m : how is your hometown finland ?", "m : great ! we are both from finland ."], "article": "m : can i introduce myself ? i 'm gian luca donatelli . i 'm from spain . f : i 'm gina . i 'm from finland .", "id": "dev_150"}

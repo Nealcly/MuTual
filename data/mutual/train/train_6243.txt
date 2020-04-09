@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["f : i want you to turn off the radio .", "f : please speak louder . i ca n't hear you as the tv is so loud .", "f : do n't turn off the radio . i ca n't hear it .", "f : i think you should apologize to me because you broke my radio ."], "article": "f : could you turn that off ? i ca n't hear myself think . m : what ?", "id": "train_6243"}

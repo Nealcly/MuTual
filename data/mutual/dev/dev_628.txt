@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : so it 's $ 0.8 cheaper .", "f : so it 's $ 0.3 cheaper than before .", "f : $ 2.2 for a pound ? that 's crazy .", "f : so it would be $ 2.20 if i buy two pounds of tomatoes , am i right ?"], "article": "f : i thought that your tomatoes $ 0.80 cents a pound . m : they used to be , but the price has gone up $ 0.30 cents .", "id": "dev_628"}

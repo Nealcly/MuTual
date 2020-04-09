@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : i have arrived at the restaurant hours before .", "m : i 'm on the way home .", "m : i 'm on the way .", "m : i am still at home ."], "article": "m : hi , maggie . i 'm coming , but it 's snowing and the traffic is moving slowly . f : ok , david . take your time . we 'll wait for you so we can have dinner together .", "id": "train_5229"}

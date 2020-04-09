@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["m : since i am back , i come here to say goodbye .", "m : i come here just to say goodbye .", "m : since i am back , i come here to visit my friend .", "m : i come to invite you because i am back ."], "article": "m : hi , mary ! i come here to tell you i 'm off on sunday . f : so soon ! what time will you be back ?", "id": "train_5745"}

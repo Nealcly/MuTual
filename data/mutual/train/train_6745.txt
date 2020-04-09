@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["m : he is quiet .", "m : he is friendly .", "m : her brother talks too little , and he is unpleasant .", "m : he is unpleasant ."], "article": "m : linda is very quiet , but her brother talks , too much . f : yes , you are right and he is n't friendly either .", "id": "train_6745"}

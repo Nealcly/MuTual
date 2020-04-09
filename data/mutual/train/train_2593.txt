@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : you can have a cup of tea , too . i 'll have tea right away .", "m : i 'm going to buy a cup of coffee for myself .", "m : i never drink tea", "m : i 'm going to buy myself a bottle of water ."], "article": "m : i was going to make myself some tea . do you want some ? f : no , thanks . i 'm fine with my coffee .", "id": "train_2593"}

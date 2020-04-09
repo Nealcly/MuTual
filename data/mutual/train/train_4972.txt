@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : so i need to pay $ 18 for one ticket .", "m : i need to pay $ 19 for service charge .", "m : so i need to pay $ 19 in total .", "m : so i need to pay $ 17 for one ticket ."], "article": "m : i 'd like 2 tickets for tonight 's show , how much is a ticket ? f : $ 8.50 and there is also a service charge of $ 1 per ticket .", "id": "train_4972"}

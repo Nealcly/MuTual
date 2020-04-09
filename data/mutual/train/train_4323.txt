@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["f : i like both volleyball and basketball .", "f : i like basketball very much .", "f : i do n't like basketball at all .", "f : i like sports , too . we should not change some other tv programs ."], "article": "f : do n't you think we should watch some other tv programs ? m : but i only like basketball .", "id": "train_4323"}

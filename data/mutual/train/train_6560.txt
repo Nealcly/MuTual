@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["m : you are right . mason changed a lot .", "m : mason could n't recognize himself .", "m : yes , mason looked nice with a beard .", "m : mason changed a lot , but he is easy to recognize ."], "article": "m : did you notice that mason shaved off his beard this winter ? f : notice ? i could hardly recognize him .", "id": "train_6560"}

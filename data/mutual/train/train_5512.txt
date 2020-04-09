@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["m : i 'm sorry mom . i forgot to do my homework .", "m : how was my homework , mrs. turner ?", "m : thank you mrs. turner .", "m : you are such a good classmate ."], "article": "m : mrs. turner , i did n't do my homework because i did n't understand it . f : sit down , ken . and i 'll explain it as soon as everyone is quiet .", "id": "train_5512"}

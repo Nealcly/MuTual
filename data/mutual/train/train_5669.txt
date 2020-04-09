@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["f : so , you eat out sometimes .", "f : you cook often , and often has idea of cooking ?", "f : you do n't like to cook .", "f : you cook often , but why you do n't enjoy cooking ?"], "article": "f : where do you often eat ? m : i cook myself . i do n't like to eat out . i enjoy serving myself with my own ideas .", "id": "train_5669"}

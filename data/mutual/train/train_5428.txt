@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["f : so you are from mexico .", "f : spain is a very beautiful country in asia .", "f : so you are from spain .", "f : you hometown is in germany ."], "article": "f : you 've worked abroad , yes ? m : yes , i worked in mexico but only for two years . last year i went to germany , but now i 'm back home in spain .", "id": "train_5428"}

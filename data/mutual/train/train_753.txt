@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["f : no , do you know the accident on a road today ?", "f : no , do you know the accident on a highway yesterday ?", "f : no , do you know the accident on a freeway today ?", "f : no , do you know the accident on a highway toady ?"], "article": "f : was there an accident on the highway today ? m : you have n't heard about it ?", "id": "train_753"}
