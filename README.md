@@ -62,4 +62,4 @@ If the corpus or the analysis is helpful to your research, please kindly cite ou
 ```
 
 # Contact
-Please feel free to contact me(uileyang@westlake.edu.cn), if you need any further information.
+Please feel free to contact me(cuileyang@westlake.edu.cn), if you need any further information.
