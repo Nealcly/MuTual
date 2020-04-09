@@ -1,16 +1,10 @@
-<style>
-table {
-margin: auto;
-}
-</style>
-
 # MuTual
 
 MuTual: A Dataset for Multi-Turn Dialogue Reasoning (ACL2020)
 
 MuTual is a retrieval-based dataset for multi-turn dialogue reasoning, which is modified from Chinese high school English listening comprehension test data. Please see our paper for more details.
 
-We also provide several baselines to facilitate the following research. (Coming soon)
+We also provide several baselines to facilitate the further research. (Coming soon)
 
 
 
@@ -54,6 +48,8 @@ Examples from the MuTual dataset. All choices are relevant to the context, but o
 
 Please send your predictions (decode output) in the above format and dev performance to cuileyang@westlake.edu.cn . We will evaluate your results according to the Eval Script (coming soon). We will start MuTual challenge soon.
 
+# Reference
+
 If the corpus or the analysis is helpful to your research, please kindly cite our paper:
 ```
 @inproceedings{mutual,
@@ -64,3 +60,6 @@ If the corpus or the analysis is helpful to your research, please kindly cite ou
     publisher = "Association for Computational Linguistics",
 }
 ```
+
+# Contact
+Please feel free to contact me(uileyang@westlake.edu.cn), if you need any further information.
