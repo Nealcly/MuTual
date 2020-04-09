@@ -46,7 +46,7 @@ Examples from the MuTual dataset. All choices are relevant to the context, but o
 
 ```answers``` is the correct answer. Noted that we do not realease the correct answer on test set.
 
-Please send your predictions (decode output) in the above format and dev performance to cuileyang@westlake.edu.cn . We will evaluate your results according to the Eval Script (coming soon). We will start MuTual challenge soon.
+Please send your predictions (decode output) in the above format and dev performance to cuileyang@zju.edu.cn . We will evaluate your results according to the Eval Script (coming soon). We will start MuTual challenge soon.
 
 # Reference
 
