@@ -6,8 +6,6 @@ MuTual is a retrieval-based dataset for multi-turn dialogue reasoning, which is 
 
 We also provide several baselines to facilitate the further research. (Coming soon)
 
-Leaderboard is coming.
-
 
 # Example
 The process of modifying the listening comprehension test data.
