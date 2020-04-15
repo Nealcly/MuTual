@@ -47,7 +47,7 @@ Examples from the MuTual dataset. All choices are relevant to the context, but o
 
 ```answers``` is the correct answer. Noted that we do not realease the correct answer on test set.
 
-Please send your predictions (decode output) in the [sample format](./eval_sample/decode_sample.txt)(```id + "\t" + rank1prediction + "\t" + rank2prediction + "\t" + rank3prediction + "\t" + rank4prediction``` one instance per line) and dev performance to cuileyang@zju.edu.cn . We will evaluate your results according to the [Eval Script](./eval_sample/eval.py). We will start MuTual challenge soon.
+Please send your predictions (decode output) in the [sample format](./eval_sample/decode_sample.txt)(```id + "\t" + rank1prediction + "\t" + rank2prediction + "\t" + rank3prediction + "\t" + rank4prediction``` one instance per line), methods and dev performance to cuileyang@zju.edu.cn . We will evaluate your results according to the [Eval Script](./eval_sample/eval.py).
 
 # Reference
 
