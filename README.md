@@ -1,6 +1,6 @@
 # MuTual
 
-[MuTual: A Dataset for Multi-Turn Dialogue Reasoning](https://arxiv.org/abs/2004.04494) (ACL2020)
+[MuTual: A Dataset for Multi-Turn Dialogue Reasoning](https://www.aclweb.org/anthology/2020.acl-main.130/) (ACL2020)
 
 MuTual is a retrieval-based dataset for multi-turn dialogue reasoning, which is modified from Chinese high school English listening comprehension test data. Please see our paper for more details.
 
