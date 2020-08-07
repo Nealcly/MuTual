@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: I\u2019m sorry, I don\u2019t understand. Could you say it again?", "M: I have take the stapler away.", "M: You owned it.", "M: Somebody else has take away the book."], "article": "M: Excuse me, would you mind if I use your stapler? F: Help yourself. It's on the desk over there. Oh, I'm sorry, it has been lent out.", "id": "train_5395"}

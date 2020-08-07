@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["F: Oh, you are an office clerk in New York.", "F: Oh, you are an office clerk.", "F: Oh, you are a shop assistant.", "F: Excuse me, could you repeat the question?"], "article": "F: So you work in Washington DC. What do you do there? M: I'm an assistant at a government office.", "id": "train_5951"}

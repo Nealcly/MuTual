@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["F: Just a minute! I do not quite follow what you are saying, would you mind repeating that?", "F: I think it is cold but I like cold.", "F: I think the weather is nice.", "F: I think it is too cold."], "article": "M: Nice weather we're having. Don't you think? F: No, it is too cold. M: I think it is just right.", "id": "dev_781"}

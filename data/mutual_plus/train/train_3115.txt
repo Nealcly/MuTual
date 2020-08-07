@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: It is so expensive for this amount of food.", "M: The price of food in our school is too expansive.", "M: I\u2019m sorry, I didn\u2019t catch that. Would you mind speaking more slowly?", "M: The kind of food is so special for my mom."], "article": "F: Is it really all you can eat for only $12.50? That price is not bad.", "id": "train_3115"}

@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: Why you still have $9?", "M: I am sorry. You spoke so rapidly that I did not catch the meaning of what you said. Could you repeat that?", "M: $7 is enough for you.", "M: You need at least $8."], "article": "F: Do you have money with you? I've run out of mine. M: How much do you need? F: About $9. Oh, no, 7 will be OK.", "id": "train_5370"}

@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: You acted in a play. So cool!", "M: You saw a play last Sunday?", "M: You saw a play?", "M: I\u2019m sorry, I didn\u2019t understand. Could you repeat a little louder, please?"], "article": "M: Did you go to the theater last Saturday? F: Yes, I saw The Teahouse, the acting was excellent.", "id": "train_4590"}

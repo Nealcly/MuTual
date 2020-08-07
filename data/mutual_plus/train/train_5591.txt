@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["F: Yes, I feel cold.", "F: The soup is cold.", "F: I want to order some food.", "F: I\u2019m sorry, I didn\u2019t understand. Could you repeat a little louder, please?"], "article": "F: Waiter, can you come here for a second please? M: What's the problem, mam? F: This soup is cold. M: I'm sorry. I'll bring you some hot soup.", "id": "train_5591"}

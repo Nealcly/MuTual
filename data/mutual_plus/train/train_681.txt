@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["F: I am really sorry, I did not catch that. Would you slow down, please?", "F: Dear, it is a hat. It's from our son.", "F: Brother, you can guess what this gift is.", "F: Thank you for your nice gift, dear son."], "article": "F: I just received a beautiful Mother's Day gift from our son. M: What did he give you this year?", "id": "train_681"}

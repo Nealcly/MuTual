@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["M: You mean I am undependable.", "M: You mean he is undependable.", "M: Yes, he is honest.", "M: I am sorry. You spoke so rapidly that I did not catch the meaning of what you said. Could you repeat that?"], "article": "M: Surely, you can turn to Jack for help. He is generous and honest. F: Jack's the last one you can rely on.", "id": "train_5967"}

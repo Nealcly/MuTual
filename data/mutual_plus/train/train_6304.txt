@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["F: You are 16 now.", "F: You are 20 now.", "F: You are 22 now.", "F: I am sorry. You spoke so rapidly that I did not catch the meaning of what you said. Could you repeat that?"], "article": "F: How long have you been at the school? M: I've been here for about 2 years. I came here when I was 22.", "id": "train_6304"}

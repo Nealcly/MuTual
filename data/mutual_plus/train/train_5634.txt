@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["M: You are also from America! That's good to know.", "M: So you are Canadian.", "M: Australia? It's not far from my country Singapore.", "M: Excuse me, could you repeat the question?"], "article": "F: Where are you from, Bob? M: I'm from America. What about you? F: Australia.", "id": "train_5634"}

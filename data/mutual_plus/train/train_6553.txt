@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: How to give tips?", "M: How to reduce the price?", "M: I\u2019m sorry, I didn\u2019t catch that. Would you mind speaking more slowly?", "M: I also want to order a fish."], "article": "M: What is a reasonable tip to leave to the waitress? F: It's up to you. I usually leave 20% of the dinner price.", "id": "train_6553"}

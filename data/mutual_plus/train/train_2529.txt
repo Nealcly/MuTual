@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: I didn\u2019t hear you. Please could you tell me again?", "F: It's late at night. Why do we have to go jogging now?", "F: What? We need to play badminton now?", "F: It's 6 o'clock. It's too early to go to work."], "article": "M: Wake up, darling. F: What for? it's only 5 o'clock in the morning. M: We're going jogging.", "id": "train_2529"}

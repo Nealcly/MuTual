@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: I\u2019m sorry, I didn\u2019t catch that. Would you mind speaking more slowly?", "F: Jason will arrive at 7:30.", "F: Jason always arrives on time.", "F: Jason should have arrived at 8:00."], "article": "F: When is Jason coming? M: Well, he said he'd be here at 7:30. But if you know him, it will be at least 8 o'clock.", "id": "train_6038"}

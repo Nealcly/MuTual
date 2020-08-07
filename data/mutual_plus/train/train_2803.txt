@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["M: Why do you think the cake tastes thick?", "M: I\u2019m sorry, I didn\u2019t catch that. Would you mind speaking more slowly?", "M: I am so happy that the cake tastes fine to you.", "M: It seems that the soup is tasteless to you."], "article": "F: I'm not sure about this soup, Carl. It has no taste.", "id": "train_2803"}

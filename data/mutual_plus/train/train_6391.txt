@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["M: Thanks, dear.", "M: Hurry to get it for me. My little assistant.", "M: I\u2019m sorry, I don\u2019t understand. Could you say it again?", "M: Size M. Please."], "article": "M: I'd like to see that brown jacket out you have in the window, please. F: What size do you take?", "id": "train_6391"}

@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["F: I didn\u2019t hear you. Please could you tell me again?", "F: I've had a headache for two days.", "F: I had a fever since yesterday.", "F: I have got a fever and get well soon."], "article": "M: Good morning, what's the matter? F: Good morning, doctor. I'm not feeling well. I have a fever. M: How long have you been like this?", "id": "train_3082"}

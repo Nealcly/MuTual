@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: You need to eat before school.", "M: I am afraid I did not quite catch what you were saying. Please repeat it.", "M: You'll stay for breakfast.", "M: You need to have a cup of coffee before school."], "article": "M: Can you stay for a cup of coffee? F: I'd love to, but I have to grab something to eat before class.", "id": "train_6843"}

@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["F: So, it's 8:20 now.", "F: I\u2019m sorry, I didn\u2019t catch that. Would you mind speaking more slowly?", "F: You mean it's five minutes after 8:25?", "F: OK. It's 8:15 now."], "article": "F: What's the time by your watch? M: 8:20, but it's 5 minutes slow.", "id": "train_4634"}

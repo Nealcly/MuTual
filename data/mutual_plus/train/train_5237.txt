@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["F: Ten cents, please.", "F: I\u2019m sorry, I don\u2019t understand. Could you say it again?", "F: Three dollars for your ten stamps.", "F: Three dollars altogether for your postcard."], "article": "M: Excuse me, I'd like to buy some stamps. F: How many? M: I need ten 30-cent stamps.", "id": "train_5237"}

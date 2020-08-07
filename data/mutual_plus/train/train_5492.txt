@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: Next bus will come at 10:00.", "M: I\u2019m sorry, I don\u2019t understand. Could you say it again?", "M: Next train will come at 10:30.", "M: Next bus will come at 10:00."], "article": "M: When does the next bus leave for New York? F: Buses leave for New York every 30 minutes. You just missed the 9:30 bus by 5 minutes.", "id": "train_5492"}

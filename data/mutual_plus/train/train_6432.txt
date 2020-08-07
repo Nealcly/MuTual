@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: Yes, no problem. I like cycling.", "M: I\u2019m sorry, I didn\u2019t understand. Could you repeat a little louder, please?", "M: Why don't we cycle to the library now?", "M: OK. Let's drive there."], "article": "M: How will we get to the park? By underground or by car? F: Neither. Why don't we just cycle there?", "id": "train_6432"}

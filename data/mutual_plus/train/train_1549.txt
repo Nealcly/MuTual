@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: I'm sorry to hear that. You should leave early to avoid the traffic jam.", "F: Excuse me, could you repeat the question?", "F: Did anyone get hurt in the accident you saw this morning?", "F: Lily told me that you were fined this morning for speeding."], "article": "M: Too much traffic today. I was late for work again!", "id": "train_1549"}

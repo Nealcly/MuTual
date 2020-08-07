@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["F: I didn\u2019t hear you. Please could you tell me again?", "F: Yes. Now is spring and I like it best, too.", "F: Autumn is so dry. Now is summer and I like it best.", "F: Yes. Now is autumn and I like it best, too."], "article": "F: Which season do you like best? M: This season. Autumn is the best season in Beijing.", "id": "train_4836"}

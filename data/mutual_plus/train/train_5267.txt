@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["M: Excuse me, could you repeat the question?", "M: Let's clean the bookshelf.", "M: Let's move the old table to the living room.", "M: Let's move the old table to the kitchen."], "article": "F: We do need another bookshelf in this room, but the problem is the space for it. M: How about moving the old table to the kitchen? F: OK.", "id": "train_5267"}

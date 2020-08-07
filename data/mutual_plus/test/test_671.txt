@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["F: OK. You will have a burger and I will have a pizza.", "F: Yes. You can have a pizza.", "F: OK. Let's have burgers together.", "F: I didn\u2019t hear you. Please could you tell me again?"], "article": "F: I'll order a burger and some dessert. What about you? M: I'll go for a pizza. I've been thinking about it all day long.", "id": "test_671"}

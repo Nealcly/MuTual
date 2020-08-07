@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["F: Please speak louder. I can't hear you as the TV is so loud.", "F: Don't turn off the radio. I can't hear it.", "F: I want you to turn off the radio.", "F: I\u2019m sorry, I don\u2019t understand. Could you say it again?"], "article": "F: Could you turn that off? I can't hear myself think. M: What?", "id": "train_6243"}

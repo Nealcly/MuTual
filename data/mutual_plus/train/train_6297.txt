@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["F: I want to send this letter to Beijing.", "F: I am afraid I did not quite catch what you were saying. Please repeat it.", "F: I want to buy some hot strips.", "F: Doctor, I feel terrible."], "article": "M: What seems to be the trouble? F: I think I'm running a fever. M: I see. Let me take your temperature.", "id": "train_6297"}

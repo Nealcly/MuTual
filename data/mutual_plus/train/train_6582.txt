@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: Just a minute! I do not quite follow what you are saying, would you mind repeating that?", "F: I bought a dress for $100.", "F: This restaurant is too expensive. A lunch costs us $300.", "F: I'm not going to pay $400 for a meal."], "article": "F: Did you tip the waitress? M: Yes, 10 dollars. 10% of our bill, right?", "id": "train_6582"}

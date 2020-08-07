@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["F: You'd like to see Joan.", "F: I will see Joan eventually, so I would like to see her now.", "F: Just a minute! I do not quite follow what you are saying, would you mind repeating that?", "F: You don't want to see Joan."], "article": "F: Do you want to see Joan? M: She is the last person I want to see now.", "id": "train_4878"}

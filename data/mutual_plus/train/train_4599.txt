@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["M: I\u2019m sorry, I didn\u2019t catch that. Would you mind speaking more slowly?", "M: Keep running!", "M: Park here. We don't need to drive there.", "M: Keep driving."], "article": "M: Rose, there's a really good view over there. F: Sorry, we can't stop here. There is nowhere to park.", "id": "train_4599"}

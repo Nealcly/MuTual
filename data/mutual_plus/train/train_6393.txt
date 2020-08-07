@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["F: I\u2019m sorry, I didn\u2019t understand. Could you repeat a little louder, please?", "F: So, you went home by train.", "F: So, you went to work by train.", "F: You went home by bus."], "article": "F: How did you get home? M: At first I plan to take a plane, but then I decided to take a train because of the storm.", "id": "train_6393"}

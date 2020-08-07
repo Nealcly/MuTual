@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["M: I like animals.", "M: Just a minute! I do not quite follow what you are saying, would you mind repeating that?", "M: You afraid of spiders.", "M: Why you are afraid of dogs?"], "article": "F: As a child, did you have any special fears? M: Yeah, I was afraid of spiders. How about you? F: I was really afraid of big dog.", "id": "train_6302"}

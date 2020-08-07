@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["M: Yes, it's 10:00 now.", "M: Yes, it's 9:10 now.", "M: I didn\u2019t hear you. Please could you tell me again?", "M: Yes, it's 9:10 now. I've got 30 minutes left."], "article": "F: What time is your train leaving? M: It leaves at 10. I've got 50 minutes left. F: You'd better hurry, or you won't be able to catch it.", "id": "train_6247"}

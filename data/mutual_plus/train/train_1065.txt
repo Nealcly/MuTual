@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["F: Excuse me, could you repeat the question?", "F: So you get the news on the local newspaper.", "F: So you get the news on the radio.", "F: So you get the news on TV."], "article": "F: Anything interesting on now? M: No, I was reading a local news report about a big fire.", "id": "train_1065"}

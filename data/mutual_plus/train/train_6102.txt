@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: Yes. Jenny's hair is short.", "M: Yes. Rose has very short hair.", "M: I\u2019m sorry, I didn\u2019t catch that. Would you mind speaking more slowly?", "M: Yes. Jenny's hair is as short as Linda's."], "article": "M: Linda's hair is long and straight. Jenny's hair is short. F: Yes, Linda's hair is just like Rose's.", "id": "train_6102"}

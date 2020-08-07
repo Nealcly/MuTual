@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["F: WIITNER?", "F: I\u2019m sorry, I didn\u2019t catch that. Would you mind speaking more slowly?", "F: WITTNER, oh no, WIITNER?", "F: WITTNER?"], "article": "F: Would you please spell your name for me, sir? M: Sure. WITTNER.", "id": "train_5734"}

@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["M: I\u2019m sorry, I don\u2019t understand. Could you say it again?", "M: OK then, let's go buy some cheese since we don't have any.", "M: We've got enough eggs? Great!", "M: Let's go get some eggs then."], "article": "M: What do we need at the shop? F: Well, we've got enough bread and cheese, but we need more eggs.", "id": "train_5898"}

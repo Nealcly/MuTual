@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: It must be very difficult then.", "M: Excuse me, could you repeat the question?", "M: I'm not surprised that you don't find it difficult. You are so smart.", "M: How can you find it easy and boring?"], "article": "M: How is your physics going? F: It seems that the more of the teacher talks, the less I understand.", "id": "train_5210"}

@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: It's February, it has been 8 months since you were here.", "M: I didn\u2019t hear you. Please could you tell me again?", "M: Yes, now is January. You have been here 7 months.", "M: It's June, you've been here for a year."], "article": "M: Lily, how long have you been here? F: I came to China in June, so it has been 7 months.", "id": "train_3579"}

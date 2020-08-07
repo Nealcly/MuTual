@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["F: He will do homework at home until 6:00.", "F: Excuse me, could you repeat the question?", "F: Got it. So he will arrive at 6:50, right?", "F: He will leave school at 6:50, right?"], "article": "F: What time is Colin coming over? M: School is over at 6:30. It will take him 20 minutes to get here by bike", "id": "train_5772"}

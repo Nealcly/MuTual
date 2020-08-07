@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["M: I'm going to buy a cup of coffee for myself.", "M: I'm going to buy myself a bottle of water.", "M: I never drink tea", "M: Just a minute! I do not quite follow what you are saying, would you mind repeating that?"], "article": "M: I was going to make myself some tea. Do you want some? F: No, thanks. I'm fine with my coffee.", "id": "train_2593"}

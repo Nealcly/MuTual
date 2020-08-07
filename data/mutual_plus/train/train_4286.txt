@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["M: I\u2019m sorry, I didn\u2019t catch that. Would you mind speaking more slowly?", "M: I will give you some. Do you enjoy your afternoon?", "M: Sure. We do have fresh fruits in the morning.", "M: Sure. We have eggs in the morning."], "article": "M: Good morning. Can I help you? F: Yes, please. I'd like some eggs.", "id": "train_4286"}

@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["F: I can keep it for 8 days. I'm so happy.", "F: I\u2019m sorry, I don\u2019t understand. Could you say it again?", "F: I can keep it for 5 days. Good.", "F: Oh, really. I can keep it for 6 days."], "article": "F: Today is Saturday. I will return the book next Tuesday. M: Take your time, you can keep it for 3 more days.", "id": "train_4991"}

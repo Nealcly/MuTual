@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["F: OK. I will get some books for you.", "F: Oh, you need some pencils? I will get some for you.", "F: Excuse me, could you repeat the question?", "F: Why do you want some envelops?"], "article": "F: I'm going to the bookstore for some pencils. Want anything? M: See if you can pick up some envelopes for me.", "id": "train_5769"}

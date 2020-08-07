@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: I didn\u2019t hear you. Please could you tell me again?", "F: I'd like a twin room.", "F: I feel better now, doctor.", "F: We have a beautiful scarf. You can take one for your mother."], "article": "F: Good afternoon, sir. What can I do for you? M: Tomorrow is Father's Day. Do you have anything to recommend?", "id": "train_4393"}

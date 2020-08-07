@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: So you took this picture at home.", "M: I didn\u2019t hear you. Please could you tell me again?", "M: So you painted the picture at school.", "M: So you took this picture at your school."], "article": "M: What are you doing, little Sarah? F: I am looking at my pictures. dad. I painted them in class.", "id": "train_1491"}

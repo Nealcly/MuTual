@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: You like apples best? Me too.", "M: I didn\u2019t hear you. Please could you tell me again?", "M: You like oranges best? Me too.", "M: So bananas are your favorite fruit, right?"], "article": "M: What's your favorite fruit, oranges or bananas? F: I like oranges better than bananas, but I like apples best.", "id": "train_4581"}

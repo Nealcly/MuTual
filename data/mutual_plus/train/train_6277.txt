@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: OK. Are you leaving at seven fifty?", "F: Why do you leave at half past seven?", "F: Just a minute! I do not quite follow what you are saying, would you mind repeating that?", "F: It is 7:50 now. You should leave."], "article": "F: Are you going to leave? It's already 7:30. M: No. I am going to wait another 20 minutes.", "id": "train_6277"}

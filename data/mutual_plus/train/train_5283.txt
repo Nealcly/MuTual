@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["F: I will ask others to mend the window.", "F: Thank you! I will shut the window now.", "F: I am afraid I did not quite catch what you were saying. Please repeat it.", "F: Thank you for closing the window for me."], "article": "F: It's so cold today would you mind my closing the window? M: Of course not.", "id": "train_5283"}

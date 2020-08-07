@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["F: I\u2019m sorry, I don\u2019t understand. Could you say it again?", "F: You are a father now.", "F: You want to have a baby girl.", "F: Congratulations! I think you like girls better as me."], "article": "F: Congratulations. I heard you just gotta baby girl. M: Twin boys.", "id": "train_5612"}

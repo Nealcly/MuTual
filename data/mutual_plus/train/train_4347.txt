@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["F: Let's go to the snack over there.", "F: I\u2019m sorry, I don\u2019t understand. Could you say it again?", "F: I want take some photos.", "F: It is really a fancy restaurant."], "article": "F: A double cheeseburger with everything on it, some large curly fries and a medium Pepsi. M: OK. Your total is $6.88.", "id": "train_4347"}

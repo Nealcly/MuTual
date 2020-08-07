@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["F: 8 yuan, please.", "F: OK. These four caps cost 18 yuan.", "F: 14 yuan, please.", "F: I am afraid I did not quite catch what you were saying. Please repeat it."], "article": "M: How much is the cap? F: 8 yuan for 1, 14 yuan for 2, and 18 yuan for 3. M: Then I'll take 3.", "id": "train_5200"}

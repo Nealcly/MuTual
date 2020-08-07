@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: Thanks for you good service.", "M: I am afraid I did not quite catch what you were saying. Please repeat it.", "M: Have you done your work right?", "M: Dear, what do you want to eat?"], "article": "M: May I have the key to room 1304? F: Your name, please. M: Tim Smith. F: Yes, here you are\u00ef\u00bc\u008c Mr. Smith.", "id": "train_5758"}

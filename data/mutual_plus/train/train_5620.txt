@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["F: I am really sorry, I did not catch that. Would you slow down, please?", "F: $7.00 each pillow.", "F: $4.00 each pillow.", "F: $4.00 for a pair of pillows."], "article": "F: How much are these pillows, please? M: $4.00 each or $7.00 for a pair.", "id": "train_5620"}

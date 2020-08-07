@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: Excuse me, could you repeat the question?", "M: What do you want to buy?", "M: How do you think of this film?", "M: Yes, there is no lecture hall in this college."], "article": "M: Excuse me, can you help me? I am looking for the lecture hall. F: Actually, I'm looking for the lecture hall, too. I think it's in the library.", "id": "train_5513"}

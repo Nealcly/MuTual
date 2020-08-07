@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: Yes, it's 7:15 now.", "M: I am afraid I did not quite catch what you were saying. Please repeat it.", "M: Since it's 6:40 now, John will be here in 30 minutes.", "M: John is supposed to come here at 7:45, but now is 7:45."], "article": "M: John is supposed to come here at 7:30. F: Yes, he'll be here in 15 minutes.", "id": "train_6805"}

@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: Yeah, I know that I'm at a factory now.", "M: Great! I'm so glad to leave your office.", "M: Great! I'm so glad to be at your office.", "M: I am really sorry, I did not catch that. Would you slow down, please?"], "article": "M: Hi, this is the Friends of the Environment office, isn't it? F: Yes, it is.", "id": "train_545"}

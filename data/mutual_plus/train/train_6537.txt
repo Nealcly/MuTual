@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: Unlike you, I really dislike fish.", "M: I am afraid I did not quite catch what you were saying. Please repeat it.", "M: Now I know. Fish and chicken are your favorites.", "M: Let me cook your favorite potatoes for you next time."], "article": "M: Hi Mary, what's your favorite dish? F: I could never get tired of fish.", "id": "train_6537"}

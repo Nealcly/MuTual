@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: No, it belongs to me.", "M: I didn\u2019t hear you. Please could you tell me again?", "M: Yes, it belongs to my brother.", "M: No, it belongs to your brother."], "article": "F: I'm returning the book you lent me. M: That isn't my book. F: Isn't it? That's funny. It must belong to your brother, then.", "id": "train_4470"}

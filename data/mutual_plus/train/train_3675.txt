@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: Why do you think she doesn't look good?", "F: I am really sorry, I did not catch that. Would you slow down, please?", "F: So you think the actress doesn't look good, right?", "F: Oh, yes, the singer is pretty, but she doesn't sing well."], "article": "F: That woman is a very good singer. M: Yes, but she looks like a man.", "id": "train_3675"}

@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: Please give me $9 refund.", "M: Shouldn't it be $4.5 in total?", "M: I\u2019m sorry, I don\u2019t understand. Could you say it again?", "M: I will pay you $2 more."], "article": "M: I'd like 2 tickets for the 5:50 concert. F: That'll be $9.", "id": "dev_612"}

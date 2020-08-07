@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["M: So we'll celebrate Sue's birthday today.", "M: I\u2019m sorry, I don\u2019t understand. Could you say it again?", "M: I already know it's my birthday!", "M: Oh, it's my birthday today!"], "article": "M: Whose birthday is it today? F: You can guess, Jim. M: Sue's, Sam's or Tracey's? F: When were you born?", "id": "dev_693"}

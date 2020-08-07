@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: I am really sorry, I did not catch that. Would you slow down, please?", "M: He is friendly.", "M: He is unpleasant.", "M: Her brother talks too little, and he is unpleasant."], "article": "M: Linda is very quiet, but her brother talks, too much. F: Yes, you are right and he isn't friendly either.", "id": "train_6745"}

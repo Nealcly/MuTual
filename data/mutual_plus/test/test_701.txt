@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["F: You usually sleep at 9:00? That's early.", "F: I\u2019m sorry, I didn\u2019t understand. Could you repeat a little louder, please?", "F: You arrive home at 10:00 everyday? That's late.", "F: You usually sleep at 10:00? That's early."], "article": "F: Do you get up at 7:00 every morning? M: Yes and I need 9 hours of sleep.", "id": "test_701"}

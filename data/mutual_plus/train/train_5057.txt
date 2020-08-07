@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["F: Excuse me, could you repeat the question?", "F: Southern Africa? You may go to Zambia, right?", "F: Well. I hope you will have a great time in Mexico.", "F: You went to Zambia last vacation? How was there?"], "article": "F: Where would you probably go for this coming vacation? M: Emm, I think I would go to southern Africa.", "id": "train_5057"}

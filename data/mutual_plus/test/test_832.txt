@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["M: What do you think of the matches?", "M: How did you hurt your toes?", "M: How much does this pair of shoes cost?", "M: I am afraid I did not quite catch what you were saying. Please repeat it."], "article": "M: They're a nice match to your skirt. But is that a good fit? F: They're a little too small and my toes hurt.", "id": "test_832"}

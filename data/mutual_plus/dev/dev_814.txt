@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: You have bought your dress for 2 years?", "M: You have bought your dress for 3 years?", "M: Your new dress is very beautiful.", "M: Excuse me, could you repeat the question?"], "article": "M: That's a beautiful dress you have on. Is it new? F: No, I got it 2 years ago, but it's still in good condition.", "id": "dev_814"}

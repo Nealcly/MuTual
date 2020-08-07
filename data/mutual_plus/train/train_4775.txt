@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["F: I\u2019m sorry, I don\u2019t understand. Could you say it again?", "F: No, you'll make the bed for free. I won't pay a penny!", "F: Forget it!  Keep playing your computer games.", "F: Deal. As long as you make the bed."], "article": "F: Hey, Tom. Let's play a game. I'll give you 5 cents if you make the bed. M: How about $5?", "id": "train_4775"}

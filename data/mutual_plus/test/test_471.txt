@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["M: I am really sorry, I did not catch that. Would you slow down, please?", "M: Why do you want an overcoat? It's still in summer.", "M: Why do you want a jacket for the winter?", "M: You want a skirt? It's already winter now."], "article": "F: Can you recommend a good tailor? M: Yes. Why? F: I want a new overcoat for the winter.", "id": "test_471"}

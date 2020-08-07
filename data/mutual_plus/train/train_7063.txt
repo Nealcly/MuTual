@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["F: You prefer coffee. OK, here you are.", "F: Oh, you prefer soda.", "F: I am afraid I did not quite catch what you were saying. Please repeat it.", "F: OK, this orange juice is for you."], "article": "F: Would you like something to drink? I have soda, coffee and orange juice. M: Thank you and I prefer orange juice.", "id": "train_7063"}

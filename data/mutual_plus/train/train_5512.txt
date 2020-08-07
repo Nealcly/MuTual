@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["M: I\u2019m sorry, I don\u2019t understand. Could you say it again?", "M: Thank you Mrs. Turner.", "M: How was my homework, Mrs. Turner?", "M: You are such a good classmate."], "article": "M: Mrs. Turner, I didn't do my homework because I didn't understand it. F: Sit down, Ken. And I'll explain it as soon as everyone is quiet.", "id": "train_5512"}

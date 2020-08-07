@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: I didn\u2019t hear you. Please could you tell me again?", "M: OK! But isn't one hour too short?", "M: OK! But I think from 8 AM to 10 AM is too early.", "M: OK! But isn't 3 hours too long?"], "article": "F: Mike, could you help me tomorrow afternoon? I'll have a yard sale from 3:00 PM to 5:00 PM.", "id": "train_684"}

@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["F: Thanks, police.", "F: Thanks, you drive bus well.", "F: Excuse me, could you repeat the question?", "F: You owned a big shop."], "article": "F: Excuse me, do you stop at Third and Highland? M: Yes, madam. Passengers, please move to the back door. F: Could you please tell me when to get off? M: Sure.", "id": "train_5944"}

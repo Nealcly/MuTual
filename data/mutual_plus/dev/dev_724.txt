@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["M: Excuse me, could you repeat the question?", "M: This forest is really big.", "M: No. Cat is more expensive than bird.", "M: Yes, cat is much cheaper here."], "article": "M: Look at those beautiful birds over there, I think you can teach them to talk. F: But look at the price. I'd rather have a cat.", "id": "dev_724"}

@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["M: Wash my clothes please!", "M: Get me a wallet. Thank you.", "M: Excuse me, could you repeat the question?", "M: Buy a wallet for yourself."], "article": "F: I'm going to the store, what would you like me to buy for you? M: Would you please buy a wallet for me while you were there? F: With pleasure.", "id": "train_4782"}

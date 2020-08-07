@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["F: I am afraid I did not quite catch what you were saying. Please repeat it.", "F: Oh my god. Jill is calling me.", "F: Oh my god. Kerry Susan is calling me.", "F: Oh my god. Carol is calling me."], "article": "M: Carol telephone. F: Who is it? M: I don't know, wait a second. May I ask who's calling please? Carrollite Susan.", "id": "test_27"}

@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: I want to go the a school called Martin Luther King School.", "F: I want to go to a store next to the school.", "F: Just a minute! I do not quite follow what you are saying, would you mind repeating that?", "F: I would like to go to a bank."], "article": "F: Excuse me. Where is Martin Luther King School? M: What?", "id": "train_3584"}

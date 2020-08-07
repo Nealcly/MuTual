@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["F: Welcome to my home, Peter. Come on in!", "F: I\u2019m sorry, I don\u2019t understand. Could you say it again?", "F: Wow. Your house is so nice, Peter.", "F: Thanks for inviting us to your house, Jack."], "article": "F: Nice to meet you, Peter. M: Welcome to my home. Come in, please.", "id": "train_2255"}

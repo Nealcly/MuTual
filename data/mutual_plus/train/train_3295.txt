@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["F: Let's get the boarding pass right away.", "F: I didn\u2019t hear you. Please could you tell me again?", "F: We're in first class on this plane.", "F: The plane is not smooth and quiet at all."], "article": "F: Can you feel that the plane's taking off now? M: No, nothing at all. It's smooth and quiet.", "id": "train_3295"}

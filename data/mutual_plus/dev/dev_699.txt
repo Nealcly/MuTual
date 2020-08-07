@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: The office probably opens at 7:45.", "M: The office probably closes at 8:00.", "M: I didn\u2019t hear you. Please could you tell me again?", "M: The office probably opens at 8:15."], "article": "M: Well, I wonder why the office is still not open. F: But it's not 8 yet. In fact, it's 7:45.", "id": "dev_699"}

@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: This coat costs me  $200.", "M: This coat costs me  $175.", "M: Excuse me, could you repeat the question?", "M: This coat costs me  $150 at a 10% discount."], "article": "M: I bought this $200 coat at a 25% discount. F: It's a good deal. You're lucky.", "id": "train_5482"}

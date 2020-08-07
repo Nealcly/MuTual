@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: Hurry up! The ship will leave at 7:05.", "M: Hurry up! The ship will leave at 6:55.", "M: I didn\u2019t hear you. Please could you tell me again?", "M: We are not in a hurry. The ship will leave at 9:15."], "article": "M: The ship leaves in 25 minutes. F: Oh, it's only 6:40 now.", "id": "dev_606"}

@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: I feel embarrassed.", "F: Excuse me, could you repeat the question?", "F: I'm confused.", "F: I'm frightened."], "article": "M: You quarreled with your mother last night, didn't you? F: Yes, I did. I came to see my mistake, but I still find it difficult to speak to her. M: Just say sorry to her. I think she will forgive you.", "id": "train_5054"}

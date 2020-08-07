@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: Sorry to hear that. Your computer is broken.", "F: Excuse me, could you repeat the question?", "F: Bob's computer is broken. Could I use your computer, David?", "F: Sorry to hear that. Your TV is broken."], "article": "F: Could I use your computer, David? M: Sorry, Mary. Mine's broken. You can use Bill's or Bob's.", "id": "train_4360"}

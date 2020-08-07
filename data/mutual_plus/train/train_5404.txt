@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["F: But fortunately Jack won the game.", "F: I didn\u2019t hear you. Please could you tell me again?", "F: But unfortunately Jack lost the game.", "F: It seems that it was a draw."], "article": "F: Everybody thought Jack could defeat his challenger in the game. M: I thought so, too. He seldom fails.", "id": "train_5404"}

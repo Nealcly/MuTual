@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["F: You mean $4 for a T-shirt, and $8 for two?", "F: Excuse me, could you repeat the question?", "F: You mean that even if I buy two, it can't be cheaper. It costs $10, right?", "F: So I need $10 for two, right?"], "article": "F: How much is this T-shirt? M: $6.00 for one, but you can save $2 if you buy 2.", "id": "train_5755"}

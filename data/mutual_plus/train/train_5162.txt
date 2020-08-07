@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: Oh, your sister is a teacher.", "M: Oh, your are a doctor.", "M: Oh, your sister is a doctor.", "M: Just a minute! I do not quite follow what you are saying, would you mind repeating that?"], "article": "M: Jane, you are a teacher and how about your sister? F: She is a doctor, but she used to be a nurse.", "id": "train_5162"}

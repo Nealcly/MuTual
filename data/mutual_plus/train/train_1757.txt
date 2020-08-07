@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: I\u2019m sorry, I didn\u2019t catch that. Would you mind speaking more slowly?", "F: Okay, please help me to print it out, thanks Helen!", "F: Yes, Miss Lily, my distinguished customer, what do you want?", "F: Yes, Miss Li. This is from room 208, Can you come to my room?"], "article": "M: Reception can I help you?", "id": "train_1757"}

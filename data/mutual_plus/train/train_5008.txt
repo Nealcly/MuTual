@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["F: What? A thief in your house?", "F: Oh, it's a dog.", "F: Excuse me, could you repeat the question?", "F: Oh, you just keep Tom's dog?"], "article": "F: Hush, did you hear something? It's from the study, maybe a rat or could be a thief. M: Relax, it's just Peters puppy dog. He asked me to take care of it for a few days.", "id": "train_5008"}

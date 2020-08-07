@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["M: Let me pay the bill.", "M: Thank you for the treat, Kate.", "M: I\u2019m sorry, I don\u2019t understand. Could you say it again?", "M: So Tom will pay for the dinner. How nice he is!"], "article": "M: Sorry, Kate. We can't eat out, I'm broke now. F: Don't worry John. Tom has promised to treat us.", "id": "train_6970"}

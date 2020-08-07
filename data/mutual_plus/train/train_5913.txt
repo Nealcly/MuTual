@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["F: It is hot in here.", "F: It is warm in here.", "F: Excuse me, could you repeat the question?", "F: It's really cold in here."], "article": "F: I'm sorry, but would you mind closing the window? It's cold in here. M: Of course not.", "id": "train_5913"}

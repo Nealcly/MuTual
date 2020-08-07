@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: I'm here to show you my novel.", "M: I\u2019m sorry, I didn\u2019t catch that. Would you mind speaking more slowly?", "M: Where is the TV you want to repair?", "M: I'm not a repairman."], "article": "F: Hello, who's that? M: Hello, Mrs Black. I'm David. I'm coming to fix your TV set. F: Oh, come in please.", "id": "train_98"}

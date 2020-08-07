@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["M: I am really sorry, I did not catch that. Would you slow down, please?", "M: Yes, today is sunny and the weather is lovely.", "M: Why is today a rainy day? I hate raining so much.", "M: Yes. Today is cloudy. It may rain later."], "article": "F: Don't you love sunny days like today?", "id": "test_267"}

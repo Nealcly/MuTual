@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: It's 8:05 now.", "F: I\u2019m sorry, I don\u2019t understand. Could you say it again?", "F: It's 7:55 now.", "F: It's 8:55 now."], "article": "F: What time does the concert start? M: At 8:30. We still have 25 minutes to get there.", "id": "dev_717"}

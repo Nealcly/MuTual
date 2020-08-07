@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: Sounds like a good plan.", "F: Excuse me, could you repeat the question?", "F: Do you want to see the movie?", "F: I like to make plans."], "article": "M: What do you want to do this weekend? F: I don't know. See a movie. M: I'm afraid it's not a good idea. How about going swimming?", "id": "train_6733"}

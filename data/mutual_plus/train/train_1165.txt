@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: Yes, so I come to say goodbye to you.", "F: Yes, you have come to say goodbye with me?", "F: I\u2019m sorry, I don\u2019t understand. Could you say it again?", "F: No, I come to invite you to my home."], "article": "F: Hello Rick, I've come to say goodbye to you. M: Are you going back to your country Canada?", "id": "train_1165"}

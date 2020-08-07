@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["M: Just a minute! I do not quite follow what you are saying, would you mind repeating that?", "M: No problem! I'll take you to the park.", "M: Sorry, boy. This bus is going to the train station.", "M: No problem! I'll take you to the airport."], "article": "M: Where do you want to go, madam? F: Could you take me to the airport?", "id": "dev_611"}

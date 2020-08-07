@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["M: I need to catch my plane now.", "M: I\u2019m sorry, I didn\u2019t catch that. Would you mind speaking more slowly?", "M: OK. I'll buy some post cards from the post office for you.", "M: You want pork or beef?"], "article": "M: I am going to the post office now. What would you like to have? F: Please get some air mail stamps.", "id": "train_5996"}

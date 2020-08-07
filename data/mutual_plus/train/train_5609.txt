@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: The North Lake is dirty now.", "F: The North Lake is beautiful now.", "F: I am really sorry, I did not catch that. Would you slow down, please?", "F: The North Lake is clean now."], "article": "F: How is your tour around the North Lake? Is it beautiful? M: It should be but it is now heavily polluted.", "id": "train_5609"}

@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["F: Amy Wait! You visited your brother?", "F: You went swimming? Amy, When do you learn it?", "F: Oh my god! Italy? You traveled to Italy?", "F: Excuse me, could you repeat the question?"], "article": "M: Hi, Betty. Good to see you. F: Great to see you too, Ron. How was your summer? M: OK. We went to Italy. How about you?", "id": "train_2179"}

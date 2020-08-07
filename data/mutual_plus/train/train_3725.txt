@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["M: I failed my final test.", "M: I'm so sad that I lost my job today", "M: I was out of work since last month.", "M: Excuse me, could you repeat the question?"], "article": "M: How are you, Missus Brandon? F: Pretty good. How are you doing? M: Not so good, I lost my job today. F: I'm sorry to hear that.", "id": "train_3725"}

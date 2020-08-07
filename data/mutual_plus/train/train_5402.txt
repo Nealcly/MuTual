@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: You weigh 80.", "M: Oh, my god. You say you weigh 90.", "M: You say you weigh 78. Just so-so.", "M: I didn\u2019t hear you. Please could you tell me again?"], "article": "M: Jane, wow, you've really lost weight. F: You noticed. Twelve kilos in six months. In January, I weighed 90. Now, it's June and I weigh 78.", "id": "train_5402"}

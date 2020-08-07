@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: I don't know why I feel so lonely.", "M: What do you mean? I never feel lonely.", "M: Excuse me, could you repeat the question?", "M: I am not lonely, just depressed."], "article": "F: How are you doing, Andrew? M: Not well. I've been feeling pretty lonely lately. F: But you have so many friends. How could you be lonely?", "id": "train_1169"}

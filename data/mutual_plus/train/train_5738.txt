@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["M: How can you like this story so much?", "M: It seems like we have the same taste.", "M: You don't know the story but like it? How strange!", "M: I am really sorry, I did not catch that. Would you slow down, please?"], "article": "M: I don't like the story. F: Neither do I.", "id": "train_5738"}

@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["F: I still have 45 years to be 65.", "F: I\u2019m sorry, I don\u2019t understand. Could you say it again?", "F: I still have 20 years to be 65.", "F: I'm 65 now."], "article": "F: When I'm 65, I will get Social Security payments from the government. M: That means you have twenty years to go and then you can quit your job.", "id": "test_851"}

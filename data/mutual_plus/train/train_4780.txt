@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: Okay, I'll get you the brown one.", "F: I am really sorry, I did not catch that. Would you slow down, please?", "F: I'm not surprised that you prefer the black one.", "F: OK, I will get the blue one then."], "article": "M: Between the brown and black shirt, I decided on the brown one. F: Sorry, which one? M: The brown one.", "id": "train_4780"}

@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["M: Yes, I am a air host. It is my duty.", "M: I didn\u2019t hear you. Please could you tell me again?", "M: But I am a passenger too. You should ask the driver there.", "M: Oh, the taxi driver is there. I am not a driver."], "article": "M: Madam, where do you want to go? F: Could you drop me off at the airport?", "id": "train_6931"}

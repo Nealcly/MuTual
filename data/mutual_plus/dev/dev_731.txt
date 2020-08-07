@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["M: Wow, that's a 30% discount.", "M: You mean there is a 10% discount, so I only have to pay $200.", "M: I\u2019m sorry, I didn\u2019t catch that. Would you mind speaking more slowly?", "M: I have a 10% discount. That's great."], "article": "M: How much is this coat? F: $200. But it is on sale now, so you just need to pay $180.00.", "id": "dev_731"}

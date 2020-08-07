@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["M: Let's take a rest.", "M: I didn\u2019t hear you. Please could you tell me again?", "M: Operating the machine is really urgent.", "M: We are almost at the foot of the hill. We are far away from the top."], "article": "M: Would you like to stop for a rest now? F: Oh, let's keep going. We are almost at the top of the hill.", "id": "dev_559"}

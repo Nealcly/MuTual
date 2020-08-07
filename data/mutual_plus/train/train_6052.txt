@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["M: I'm going to make a plan for yourself.", "M: I have told you my plan before.", "M: I'm going to write a list for you.", "M: Excuse me, could you repeat the question?"], "article": "F: Have you made your new year plans? M: Yes, I've just finished a list of them, would you like me to read them to you? F: Ok.", "id": "train_6052"}

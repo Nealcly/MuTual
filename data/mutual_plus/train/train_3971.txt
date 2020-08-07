@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: Do you remember where you lost your wallet?", "F: Excuse me, could you repeat the question?", "F: What? Someone robbed you? You are so unlucky.", "F: You just lost your wallet, but why are you so happy?"], "article": "F: Why do you look so upset, have you been robbed? M: Well, I lost my wallet.", "id": "train_3971"}

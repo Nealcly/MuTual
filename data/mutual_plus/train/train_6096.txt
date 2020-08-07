@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: The train will leave at 10:30.", "M: The train will leave at 11:00.", "M: Excuse me, could you repeat the question?", "M: Yes. The bus will leave at 12:00."], "article": "F: Shall we go now? It's already 10:30. M: Don't worry we still have 1 and 1/2 hours left to catch the train. F: Ok.", "id": "train_6096"}

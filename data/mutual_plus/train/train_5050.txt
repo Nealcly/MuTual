@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["F: I wish you have a wonderful holiday in Boston.", "F: You need to attend this meeting on time.", "F: You grandparents will come to New York this weekend.", "F: Excuse me, could you repeat the question?"], "article": "F: Are you going to New York next weekend? M: Yes, I'm going there to visit my grandparents.", "id": "train_5050"}

@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["M: Excuse me, could you repeat the question?", "M: All right. You only have 45 minutes for lunch.", "M: All right. You only have 45 minutes for dinner.", "M: All right. You only have 30 minutes for lunch."], "article": "M: You only have an hour for lunch? F: No, now I only have 45 minutes.", "id": "train_2715"}

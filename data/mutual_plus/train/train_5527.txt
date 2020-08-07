@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["F: It's going to be rainy all day long.", "F: How cloudy it is. I'm sure it's going to rain later.", "F: It has been sunny since yesterday.", "F: I\u2019m sorry, I don\u2019t understand. Could you say it again?"], "article": "F: Beautiful day, isn't it? We can go outing today. M: Yeah, thanks to the shower last night.", "id": "train_5527"}

@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: I\u2019m sorry, I didn\u2019t catch that. Would you mind speaking more slowly?", "M: You are right. The bus can not start now.", "M: Yes, the car is making a strange noise.", "M: Sure. There is a strange noise in the street."], "article": "F: Frank, do you hear that strange noise?", "id": "train_433"}

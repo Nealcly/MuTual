@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: OK. You want to book a table for 3, right sir?", "F: OK, sir. You want to book a table for 5, right?", "F: You want to buy a table? Which kind do you prefer?", "F: Excuse me, could you repeat the question?"], "article": "F: Helen Air Restaurant. Headwaiter. Good morning. M: I'd like to book a table for 3.", "id": "train_1607"}

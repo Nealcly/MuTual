@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["F: I\u2019m sorry, I didn\u2019t understand. Could you repeat a little louder, please?", "F: Hi, old friend, we're classmates now.", "F: Yeah, he is your old friend and we are clerks again.", "F: Hi, we are classmates now."], "article": "F: Hey, guys, say hello to your new friend, Jasmine Blake. M: Hello, welcome to our class.", "id": "train_5372"}

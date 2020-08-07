@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["M: Excuse me, could you repeat the question?", "M: My work goes well. But I have problems in my life.", "M: I have problems with my study. My work goes well.", "M: I have problems with my work."], "article": "M: I am having trouble with my job. F: What is the problem?", "id": "test_259"}

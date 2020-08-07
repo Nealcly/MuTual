@@ -1,0 +1,1 @@
+{"answers": " ", "options": ["M: It is going to rain.", "M: I didn\u2019t hear you. Please could you tell me again?", "M: It's snowy soon.", "M: It will sunny then."], "article": "M: The newspaper says it'll be cloudy and rainy today. What do you think of it? F: I don't believe it. Look, the sun is out. There is not one cloud in the sky.", "id": "test_703"}

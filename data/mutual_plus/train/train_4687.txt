@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: I am afraid I did not quite catch what you were saying. Please repeat it.", "M: This is the first time I lose my car keys.", "M: I know. I always lose my car keys.", "M: I know. I should let you keep the car keys."], "article": "M: Oh, this is so annoying, where on Earth did I put my car keys? F: You never learn your lessons.", "id": "train_4687"}

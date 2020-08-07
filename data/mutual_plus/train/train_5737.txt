@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["F: Just a minute! I do not quite follow what you are saying, would you mind repeating that?", "F: Your job is difficult.", "F: You job isn't interesting.", "F: Why don't you know how to do your job?"], "article": "F: You seem very tired lately. M: It's my new job. It's hard work and the hours are long.", "id": "train_5737"}

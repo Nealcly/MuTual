@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: Yes. I will pay by credit card.", "M: No. I will pay by cheque.", "M: Excuse me, could you repeat the question?", "M: No. I have enough cash on me."], "article": "M: I don't have much cash on me. Do you take checks? F: Sorry, we only accept credit cards or cash. Do you have a credit card?", "id": "train_6114"}

@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["F: Wow! A ten-day vacation! So cool!", "F: You only got five days off? That's too short!", "F: I didn\u2019t hear you. Please could you tell me again?", "F: You are so lucky to have a 15-day vacation!"], "article": "F: When are you going to take your vacation? M: I've got a 10-day vacation starting from July twenty-fifth.", "id": "train_3361"}

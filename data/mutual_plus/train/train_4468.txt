@@ -1,0 +1,1 @@
+{"answers": "A", "options": ["M: Why did you miss Bob?", "M: I didn\u2019t hear you. Please could you tell me again?", "M: I didn't realize you missed traveling instead of Bob.", "M: Since Bob didn't travel with you, why didn't you miss him?"], "article": "M: Did you all have a good time on your visit to Paris? F: Yes, but we all missed Bob.", "id": "train_4468"}

@@ -1,0 +1,1 @@
+{"answers": "D", "options": ["F: What? Why did the woman break the lock?", "F: What? Why did you repair the lock?", "F: Excuse me, could you repeat the question?", "F: What? Why did you break the lock?"], "article": "M: What happened here? F: Our lock was broken, honey. Somebody broke into our house. M: Oh, that was me.", "id": "train_3883"}

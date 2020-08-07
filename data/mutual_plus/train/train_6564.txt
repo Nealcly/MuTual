@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["F: This watch is gorgeous.", "F: I didn\u2019t hear you. Please could you tell me again?", "F: This wallet is so unique.", "F: It's a notebook? It is beautiful."], "article": "F: What is that? A wallet or a kind of notebook? It looks special. M: A newly invented wallet. It has many new functions.", "id": "train_6564"}

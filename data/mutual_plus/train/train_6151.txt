@@ -1,0 +1,1 @@
+{"answers": "B", "options": ["M: I am really sorry, I did not catch that. Would you slow down, please?", "M: So, you paid $232 in total.", "M: You paid $229 in total.", "M: You paid $229 without tax."], "article": "F: I bought an air cleaner that was on sale. It was $229. M: Including tax? F: No, I paid another $3 for the tax.", "id": "train_6151"}

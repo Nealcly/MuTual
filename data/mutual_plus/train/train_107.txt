@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["M: I'm a dentist and work in a hospital.", "M: Excuse me, could you repeat the question?", "M: I'm working on an airplane. Japan.", "M: I'm a cook work in a restaurant."], "article": "F: So how's your new job going, David? M: It's going really well. I started 2 months ago and it's great. F: Which countries are you flying to?", "id": "train_107"}

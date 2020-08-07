@@ -1,0 +1,1 @@
+{"answers": "C", "options": ["F: Thank you. Here's you change, $7.", "F: You need pay $3 more.", "F: I am sorry. You spoke so rapidly that I did not catch the meaning of what you said. Could you repeat that?", "F: Why did you pay $9?"], "article": "M: How much do I need to pay? F: Let me see. Um, $9 and $8. That's $17, sir. M: OK, here is a $20 bill.", "id": "train_4542"}
